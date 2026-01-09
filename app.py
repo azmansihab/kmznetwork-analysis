@@ -8,9 +8,8 @@ import zipfile
 import numpy as np
 import os
 from scipy.spatial import ConvexHull
-from shapely.geometry import Point
 
-# Update OSMNX Settings (v2.0+)
+# Update OSMNX Settings (Gunakan ox.settings untuk v2.0+)
 ox.settings.use_cache = True
 ox.settings.log_console = False
 
@@ -42,27 +41,28 @@ def load_data(uploaded_file):
         return None
 
 def get_street_names(G, path):
-    """Mengambil nama jalan dengan pengecekan atribut yang lebih luas."""
+    """Mengambil nama jalan yang kompatibel dengan OSMNX v2.0+"""
     names = []
-    # Loop melalui setiap edge dalam path
-    edges = ox.utils_graph.get_route_edge_attributes(G, path)
-    
-    for edge in edges:
-        if 'name' in edge:
-            name = edge['name']
-            if isinstance(name, list):
-                names.extend([str(n) for n in name])
-            else:
-                names.append(str(name))
-        elif 'ref' in edge: # Jika nama tidak ada, coba ambil referensi jalan (misal: kode jalan)
-            names.append(str(edge['ref']))
+    # Mengambil atribut edge di sepanjang path
+    # Di v2.0, ox.routing.route_to_gdf adalah cara standar
+    try:
+        gdf_edges = ox.routing.route_to_gdf(G, path)
+        if 'name' in gdf_edges.columns:
+            # Membersihkan data list/NaN
+            street_list = gdf_edges['name'].dropna().tolist()
+            for s in street_list:
+                if isinstance(s, list):
+                    names.extend([str(item) for item in s])
+                else:
+                    names.append(str(s))
+    except:
+        pass
             
-    # Membersihkan list dan mengambil nama unik
     unique_names = sorted(list(set([n for n in names if n])))
-    return ", ".join(unique_names) if unique_names else "Jalan lokal/tidak bernama"
+    return ", ".join(unique_names) if unique_names else "Gang/Jalan lokal"
 
 st.set_page_config(page_title="ISP Network Planner Pro", layout="wide")
-st.title("🌐 ISP Network Planner: Full Spatial & Street Analysis")
+st.title("🌐 ISP Network Planner: Full Spatial Analysis")
 
 # Sidebar
 st.sidebar.header("⚙️ Parameter")
@@ -83,11 +83,10 @@ if file_tiang and file_rumah:
         st.success(f"✅ Data Terdeteksi: {len(gdf_tiang)} Tiang & {len(gdf_rumah)} Rumah")
         
         if st.button("🚀 JALANKAN ANALISIS OPTIMASI LENGKAP"):
-            with st.spinner("Mengunduh data jalan (termasuk jalan setapak) dan memproses rute..."):
+            with st.spinner("Mengunduh data jalan dan memproses rute..."):
                 avg_lat, avg_lon = gdf_tiang.geometry.y.mean(), gdf_tiang.geometry.x.mean()
                 
-                # network_type='all' akan mengambil semua jalur (mobil, motor, jalan kaki)
-                # agar jalan kecil di pemukiman masuk ke sistem
+                # Gunakan network_type='all' untuk mencakup gang-gang kecil
                 G = ox.graph_from_point((avg_lat, avg_lon), dist=3000, network_type='all')
                 
                 kml_out = simplekml.Kml()
@@ -117,6 +116,7 @@ if file_tiang and file_rumah:
                                 })
                         except: continue
 
+                # Alokasi Global (Menghindari Crossing)
                 all_connections = sorted(all_connections, key=lambda x: x['dist'])
                 taken_homes = set()
                 pole_load = {t['id']: 0 for t in tiang_list}
@@ -157,7 +157,7 @@ if file_tiang and file_rumah:
                     for res in final_allocations[t_idx]:
                         points_for_boundary.append(res['r_coords'])
                         p_rmh = fol.newpoint(name=f"{res['r_name']}", coords=[res['r_coords']])
-                        p_rmh.description = f"Melewati: {res['streets']}\nJarak: {int(res['dist'])}m"
+                        p_rmh.description = f"Jalan: {res['streets']}\nJarak: {int(res['dist'])}m"
                         
                         ls = fol.newlinestring(name=f"Rute ke {res['r_name']}")
                         ls.coords = res['path']
