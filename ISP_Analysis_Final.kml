@@ -1,0 +1,3141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <Style id="9">
+                <LineStyle id="10">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="15">
+                <LineStyle id="16">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="21">
+                <LineStyle id="22">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="27">
+                <LineStyle id="28">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="33">
+                <LineStyle id="34">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="39">
+                <LineStyle id="40">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="45">
+                <LineStyle id="46">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="51">
+                <LineStyle id="52">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="57">
+                <LineStyle id="58">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="63">
+                <LineStyle id="64">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="71">
+                <PolyStyle id="72">
+                    <color>320000ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S1A1(14)&amp;S1A2(21)</name>
+            <Placemark id="4">
+                <name>PUSAT_S1A1(14)&amp;S1A2(21)</name>
+                <Point id="3">
+                    <coordinates>109.1242605820298,-6.965970290258583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6">
+                <name>?-70</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="5">
+                    <coordinates>109.1245452314615,-6.966083442666096,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8">
+                <name>Rute ke ?-70</name>
+                <styleUrl>#9</styleUrl>
+                <LineString id="7">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="12">
+                <name>?-71</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="11">
+                    <coordinates>109.1239286586642,-6.965845156976144,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="14">
+                <name>Rute ke ?-71</name>
+                <styleUrl>#15</styleUrl>
+                <LineString id="13">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18">
+                <name>?-72</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="17">
+                    <coordinates>109.1239098832011,-6.966045836133688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20">
+                <name>Rute ke ?-72</name>
+                <styleUrl>#21</styleUrl>
+                <LineString id="19">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="24">
+                <name>No 7</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="23">
+                    <coordinates>109.1245693713427,-6.965972287066014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26">
+                <name>Rute ke No 7</name>
+                <styleUrl>#27</styleUrl>
+                <LineString id="25">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="30">
+                <name>No 11</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="29">
+                    <coordinates>109.1239839792252,-6.966063474596165,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32">
+                <name>Rute ke No 11</name>
+                <styleUrl>#33</styleUrl>
+                <LineString id="31">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="36">
+                <name>No 13</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="35">
+                    <coordinates>109.1238609328866,-6.966032191284903,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="38">
+                <name>Rute ke No 13</name>
+                <styleUrl>#39</styleUrl>
+                <LineString id="37">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="42">
+                <name>No 14</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="41">
+                    <coordinates>109.1240161657333,-6.96587244668421,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44">
+                <name>Rute ke No 14</name>
+                <styleUrl>#45</styleUrl>
+                <LineString id="43">
+                    <coordinates>109.124334,-6.9655139,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="48">
+                <name>?-59</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 72m</description>
+                <Point id="47">
+                    <coordinates>109.124882183969,-6.965396540572112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50">
+                <name>Rute ke ?-59</name>
+                <styleUrl>#51</styleUrl>
+                <LineString id="49">
+                    <coordinates>109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="54">
+                <name>?-60</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 72m</description>
+                <Point id="53">
+                    <coordinates>109.1248724609613,-6.965463100896557,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56">
+                <name>Rute ke ?-60</name>
+                <styleUrl>#57</styleUrl>
+                <LineString id="55">
+                    <coordinates>109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60">
+                <name>?-61</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 72m</description>
+                <Point id="59">
+                    <coordinates>109.1248634085059,-6.965514019538386,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62">
+                <name>Rute ke ?-61</name>
+                <styleUrl>#63</styleUrl>
+                <LineString id="61">
+                    <coordinates>109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="66">
+                <name>BOUNDARY_S1A1(14)&amp;S1A2(21)</name>
+                <styleUrl>#71</styleUrl>
+                <Polygon id="65">
+                    <outerBoundaryIs>
+                        <LinearRing id="69">
+                            <coordinates>109.1239286586642,-6.965845156976144,0.0 109.1238609328866,-6.966032191284903,0.0 109.1239098832011,-6.966045836133688,0.0 109.1239839792252,-6.966063474596165,0.0 109.1245452314615,-6.966083442666096,0.0 109.1248634085059,-6.965514019538386,0.0 109.1248724609613,-6.965463100896557,0.0 109.124882183969,-6.965396540572112,0.0 109.1239286586642,-6.965845156976144,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="73">
+            <Style id="80">
+                <LineStyle id="81">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="86">
+                <LineStyle id="87">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="92">
+                <LineStyle id="93">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="98">
+                <LineStyle id="99">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="104">
+                <LineStyle id="105">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="110">
+                <LineStyle id="111">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="116">
+                <LineStyle id="117">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="122">
+                <LineStyle id="123">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="128">
+                <LineStyle id="129">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="134">
+                <LineStyle id="135">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="142">
+                <PolyStyle id="143">
+                    <color>32ff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S1A4(17)</name>
+            <Placemark id="75">
+                <name>PUSAT_S1A4(17)</name>
+                <Point id="74">
+                    <coordinates>109.1242910921574,-6.965286383214396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="77">
+                <name>?-56</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 43m</description>
+                <Point id="76">
+                    <coordinates>109.1247403621674,-6.965152264100427,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="79">
+                <name>Rute ke ?-56</name>
+                <styleUrl>#80</styleUrl>
+                <LineString id="78">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.1244542,-6.9649747,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="83">
+                <name>?-62</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="82">
+                    <coordinates>109.1248419508338,-6.965610864783066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="85">
+                <name>Rute ke ?-62</name>
+                <styleUrl>#86</styleUrl>
+                <LineString id="84">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="89">
+                <name>?-63</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="88">
+                    <coordinates>109.1247886419296,-6.965867454664559,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="91">
+                <name>Rute ke ?-63</name>
+                <styleUrl>#92</styleUrl>
+                <LineString id="90">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="95">
+                <name>?-64</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="94">
+                    <coordinates>109.1248278692365,-6.96598493351286,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="97">
+                <name>Rute ke ?-64</name>
+                <styleUrl>#98</styleUrl>
+                <LineString id="96">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="101">
+                <name>?-65</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="100">
+                    <coordinates>109.1248332336545,-6.966054821765594,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="103">
+                <name>Rute ke ?-65</name>
+                <styleUrl>#104</styleUrl>
+                <LineString id="102">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="107">
+                <name>?-66</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="106">
+                    <coordinates>109.1248007118702,-6.966179289389909,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="109">
+                <name>Rute ke ?-66</name>
+                <styleUrl>#110</styleUrl>
+                <LineString id="108">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="113">
+                <name>?-67</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="112">
+                    <coordinates>109.124715551734,-6.966173298970252,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="115">
+                <name>Rute ke ?-67</name>
+                <styleUrl>#116</styleUrl>
+                <LineString id="114">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="119">
+                <name>?-68</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="118">
+                    <coordinates>109.1246421262622,-6.965979941494403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="121">
+                <name>Rute ke ?-68</name>
+                <styleUrl>#122</styleUrl>
+                <LineString id="120">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="125">
+                <name>?-69</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="124">
+                    <coordinates>109.1246149688959,-6.966104741939747,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="127">
+                <name>Rute ke ?-69</name>
+                <styleUrl>#128</styleUrl>
+                <LineString id="126">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="131">
+                <name>No 9</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 118m</description>
+                <Point id="130">
+                    <coordinates>109.1247185692191,-6.966015218423656,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="133">
+                <name>Rute ke No 9</name>
+                <styleUrl>#134</styleUrl>
+                <LineString id="132">
+                    <coordinates>109.1242753,-6.9652195,0.0 109.1244006,-6.9652324,0.0 109.124334,-6.9655139,0.0 109.124979,-6.9656132,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="137">
+                <name>BOUNDARY_S1A4(17)</name>
+                <styleUrl>#142</styleUrl>
+                <Polygon id="136">
+                    <outerBoundaryIs>
+                        <LinearRing id="140">
+                            <coordinates>109.1247403621674,-6.965152264100427,0.0 109.1242910921574,-6.965286383214396,0.0 109.1246149688959,-6.966104741939747,0.0 109.124715551734,-6.966173298970252,0.0 109.1248007118702,-6.966179289389909,0.0 109.1248332336545,-6.966054821765594,0.0 109.1248419508338,-6.965610864783066,0.0 109.1247403621674,-6.965152264100427,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="144">
+            <Style id="151">
+                <LineStyle id="152">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="157">
+                <LineStyle id="158">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="163">
+                <LineStyle id="164">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="169">
+                <LineStyle id="170">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="175">
+                <LineStyle id="176">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="181">
+                <LineStyle id="182">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="187">
+                <LineStyle id="188">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="193">
+                <LineStyle id="194">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="201">
+                <PolyStyle id="202">
+                    <color>32008000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S2A14(15)</name>
+            <Placemark id="146">
+                <name>PUSAT_S2A14(15)</name>
+                <Point id="145">
+                    <coordinates>109.122326374054,-6.96317208909629,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="148">
+                <name>?-46</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="147">
+                    <coordinates>109.1219853982329,-6.963282912556847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="150">
+                <name>Rute ke ?-46</name>
+                <styleUrl>#151</styleUrl>
+                <LineString id="149">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="154">
+                <name>?-47</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="153">
+                    <coordinates>109.1220762580633,-6.963290234225989,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>Rute ke ?-47</name>
+                <styleUrl>#157</styleUrl>
+                <LineString id="155">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="160">
+                <name>?-48</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="159">
+                    <coordinates>109.1220692172647,-6.963203705401527,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="162">
+                <name>Rute ke ?-48</name>
+                <styleUrl>#163</styleUrl>
+                <LineString id="161">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="166">
+                <name>?-73</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="165">
+                    <coordinates>109.1221242025495,-6.963480930386638,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="168">
+                <name>Rute ke ?-73</name>
+                <styleUrl>#169</styleUrl>
+                <LineString id="167">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="172">
+                <name>?-74</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="171">
+                    <coordinates>109.1221014037728,-6.963605731496934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="174">
+                <name>Rute ke ?-74</name>
+                <styleUrl>#175</styleUrl>
+                <LineString id="173">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="178">
+                <name>?-75</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="177">
+                    <coordinates>109.1222073510289,-6.963606729905682,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>Rute ke ?-75</name>
+                <styleUrl>#181</styleUrl>
+                <LineString id="179">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="184">
+                <name>?-105</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="183">
+                    <coordinates>109.1221744939685,-6.963206700630325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>Rute ke ?-105</name>
+                <styleUrl>#187</styleUrl>
+                <LineString id="185">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="190">
+                <name>?-106</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="189">
+                    <coordinates>109.1222117096186,-6.963459630993831,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>Rute ke ?-106</name>
+                <styleUrl>#193</styleUrl>
+                <LineString id="191">
+                    <coordinates>109.1224616,-6.9638295,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="196">
+                <name>BOUNDARY_S2A14(15)</name>
+                <styleUrl>#201</styleUrl>
+                <Polygon id="195">
+                    <outerBoundaryIs>
+                        <LinearRing id="199">
+                            <coordinates>109.1222073510289,-6.963606729905682,0.0 109.122326374054,-6.96317208909629,0.0 109.1220692172647,-6.963203705401527,0.0 109.1219853982329,-6.963282912556847,0.0 109.1221014037728,-6.963605731496934,0.0 109.1222073510289,-6.963606729905682,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="203">
+            <Style id="210">
+                <LineStyle id="211">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="216">
+                <LineStyle id="217">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="222">
+                <LineStyle id="223">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="228">
+                <LineStyle id="229">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="234">
+                <LineStyle id="235">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="240">
+                <LineStyle id="241">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="246">
+                <LineStyle id="247">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="252">
+                <LineStyle id="253">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="258">
+                <LineStyle id="259">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="266">
+                <PolyStyle id="267">
+                    <color>3200ffff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S2A16(20)&amp;S2A17(14)</name>
+            <Placemark id="205">
+                <name>PUSAT_S2A16(20)&amp;S2A17(14)</name>
+                <Point id="204">
+                    <coordinates>109.1229684278369,-6.963792101093148,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>?-49</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="206">
+                    <coordinates>109.1227934136987,-6.963317856885817,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="209">
+                <name>Rute ke ?-49</name>
+                <styleUrl>#210</styleUrl>
+                <LineString id="208">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="213">
+                <name>?-50</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="212">
+                    <coordinates>109.1228715330362,-6.963307207185832,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>Rute ke ?-50</name>
+                <styleUrl>#216</styleUrl>
+                <LineString id="214">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="219">
+                <name>?-51</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="218">
+                    <coordinates>109.1229486465454,-6.963308871201471,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>Rute ke ?-51</name>
+                <styleUrl>#222</styleUrl>
+                <LineString id="220">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="225">
+                <name>?-52</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="224">
+                    <coordinates>109.1227974370122,-6.963443989251625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>Rute ke ?-52</name>
+                <styleUrl>#228</styleUrl>
+                <LineString id="226">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="231">
+                <name>?-53</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="230">
+                    <coordinates>109.1227323934436,-6.963444322054651,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="233">
+                <name>Rute ke ?-53</name>
+                <styleUrl>#234</styleUrl>
+                <LineString id="232">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="237">
+                <name>?-54</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="236">
+                    <coordinates>109.1228165477514,-6.963556143859747,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="239">
+                <name>Rute ke ?-54</name>
+                <styleUrl>#240</styleUrl>
+                <LineString id="238">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="243">
+                <name>?-55</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="242">
+                    <coordinates>109.1229392588139,-6.963543497347421,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="245">
+                <name>Rute ke ?-55</name>
+                <styleUrl>#246</styleUrl>
+                <LineString id="244">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="249">
+                <name>No 62</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="248">
+                    <coordinates>109.1228668391705,-6.963431342736271,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>Rute ke No 62</name>
+                <styleUrl>#252</styleUrl>
+                <LineString id="250">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="255">
+                <name>No 63</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="254">
+                    <coordinates>109.1229553520679,-6.963435669175775,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>Rute ke No 63</name>
+                <styleUrl>#258</styleUrl>
+                <LineString id="256">
+                    <coordinates>109.1229983,-6.9637755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="261">
+                <name>BOUNDARY_S2A16(20)&amp;S2A17(14)</name>
+                <styleUrl>#266</styleUrl>
+                <Polygon id="260">
+                    <outerBoundaryIs>
+                        <LinearRing id="264">
+                            <coordinates>109.1227323934436,-6.963444322054651,0.0 109.1229684278369,-6.963792101093148,0.0 109.1229553520679,-6.963435669175775,0.0 109.1229486465454,-6.963308871201471,0.0 109.1228715330362,-6.963307207185832,0.0 109.1227934136987,-6.963317856885817,0.0 109.1227323934436,-6.963444322054651,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="268">
+            <Style id="275">
+                <LineStyle id="276">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="281">
+                <LineStyle id="282">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="287">
+                <LineStyle id="288">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="293">
+                <LineStyle id="294">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="299">
+                <LineStyle id="300">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="305">
+                <LineStyle id="306">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="311">
+                <LineStyle id="312">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="317">
+                <LineStyle id="318">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="323">
+                <LineStyle id="324">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="329">
+                <LineStyle id="330">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="337">
+                <PolyStyle id="338">
+                    <color>32800080</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S3B4(17)&amp;S3B5(15)</name>
+            <Placemark id="270">
+                <name>PUSAT_S3B4(17)&amp;S3B5(15)</name>
+                <Point id="269">
+                    <coordinates>109.1249043121934,-6.967529128669466,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="272">
+                <name>?-38</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="271">
+                    <coordinates>109.1249143704772,-6.967889551074187,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="274">
+                <name>Rute ke ?-38</name>
+                <styleUrl>#275</styleUrl>
+                <LineString id="273">
+                    <coordinates>109.1249375,-6.9675708,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="278">
+                <name>?-41</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="277">
+                    <coordinates>109.1248875483871,-6.967800027898874,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="280">
+                <name>Rute ke ?-41</name>
+                <styleUrl>#281</styleUrl>
+                <LineString id="279">
+                    <coordinates>109.1249375,-6.9675708,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="284">
+                <name>No 46</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 16m</description>
+                <Point id="283">
+                    <coordinates>109.1247517615557,-6.967805019897941,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="286">
+                <name>Rute ke No 46</name>
+                <styleUrl>#287</styleUrl>
+                <LineString id="285">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="290">
+                <name>?-28</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 84m</description>
+                <Point id="289">
+                    <coordinates>109.1249106824398,-6.968233333220464,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="292">
+                <name>Rute ke ?-28</name>
+                <styleUrl>#293</styleUrl>
+                <LineString id="291">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="296">
+                <name>?-33</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 84m</description>
+                <Point id="295">
+                    <coordinates>109.1249167174101,-6.968015349410584,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="298">
+                <name>Rute ke ?-33</name>
+                <styleUrl>#299</styleUrl>
+                <LineString id="297">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="302">
+                <name>No 36</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 84m</description>
+                <Point id="301">
+                    <coordinates>109.1249043121934,-6.968172098084118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>Rute ke No 36</name>
+                <styleUrl>#305</styleUrl>
+                <LineString id="303">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="308">
+                <name>No 37</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 84m</description>
+                <Point id="307">
+                    <coordinates>109.1249023005366,-6.968086235759889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="310">
+                <name>Rute ke No 37</name>
+                <styleUrl>#311</styleUrl>
+                <LineString id="309">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="314">
+                <name>No 39</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 84m</description>
+                <Point id="313">
+                    <coordinates>109.1247353330255,-6.96815079890437,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="316">
+                <name>Rute ke No 39</name>
+                <styleUrl>#317</styleUrl>
+                <LineString id="315">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="320">
+                <name>No 45</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 84m</description>
+                <Point id="319">
+                    <coordinates>109.1247665137053,-6.967934479055347,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="322">
+                <name>Rute ke No 45</name>
+                <styleUrl>#323</styleUrl>
+                <LineString id="321">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="326">
+                <name>?-76</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 108m</description>
+                <Point id="325">
+                    <coordinates>109.1255463659763,-6.96691411362165,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="328">
+                <name>Rute ke ?-76</name>
+                <styleUrl>#329</styleUrl>
+                <LineString id="327">
+                    <coordinates>109.1249375,-6.9675708,0.0 109.1250974,-6.9670411,0.0 109.1254076,-6.966967,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="332">
+                <name>BOUNDARY_S3B4(17)&amp;S3B5(15)</name>
+                <styleUrl>#337</styleUrl>
+                <Polygon id="331">
+                    <outerBoundaryIs>
+                        <LinearRing id="335">
+                            <coordinates>109.1247353330255,-6.96815079890437,0.0 109.1249106824398,-6.968233333220464,0.0 109.1255463659763,-6.96691411362165,0.0 109.1249043121934,-6.967529128669466,0.0 109.1247517615557,-6.967805019897941,0.0 109.1247353330255,-6.96815079890437,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="339">
+            <Style id="346">
+                <LineStyle id="347">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="352">
+                <LineStyle id="353">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="358">
+                <LineStyle id="359">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="364">
+                <LineStyle id="365">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="370">
+                <LineStyle id="371">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="376">
+                <LineStyle id="377">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="382">
+                <LineStyle id="383">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="388">
+                <LineStyle id="389">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="394">
+                <LineStyle id="395">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="400">
+                <LineStyle id="401">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="408">
+                <PolyStyle id="409">
+                    <color>3200a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S3B6(17)&amp;S4B7(17)</name>
+            <Placemark id="341">
+                <name>PUSAT_S3B6(17)&amp;S4B7(17)</name>
+                <Point id="340">
+                    <coordinates>109.1258155927062,-6.967596687091446,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="343">
+                <name>?-82</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="342">
+                    <coordinates>109.125751554966,-6.967421967014628,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="345">
+                <name>Rute ke ?-82</name>
+                <styleUrl>#346</styleUrl>
+                <LineString id="344">
+                    <coordinates>109.1258206,-6.9676027,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="349">
+                <name>No 20</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="348">
+                    <coordinates>109.1257716715336,-6.967242587668019,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="351">
+                <name>Rute ke No 20</name>
+                <styleUrl>#352</styleUrl>
+                <LineString id="350">
+                    <coordinates>109.1258206,-6.9676027,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="355">
+                <name>?-83</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="354">
+                    <coordinates>109.1259262338281,-6.967912514265082,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="357">
+                <name>Rute ke ?-83</name>
+                <styleUrl>#358</styleUrl>
+                <LineString id="356">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="361">
+                <name>?-84</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="360">
+                    <coordinates>109.1259104758501,-6.967989723826282,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="363">
+                <name>Rute ke ?-84</name>
+                <styleUrl>#364</styleUrl>
+                <LineString id="362">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="367">
+                <name>?-85</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="366">
+                    <coordinates>109.1259007528424,-6.968069928572491,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="369">
+                <name>Rute ke ?-85</name>
+                <styleUrl>#370</styleUrl>
+                <LineString id="368">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="373">
+                <name>?-87</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="372">
+                    <coordinates>109.1257582604885,-6.967856271085349,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="375">
+                <name>Rute ke ?-87</name>
+                <styleUrl>#376</styleUrl>
+                <LineString id="374">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="379">
+                <name>?-88</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="378">
+                    <coordinates>109.1255916282535,-6.967936475854406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="381">
+                <name>Rute ke ?-88</name>
+                <styleUrl>#382</styleUrl>
+                <LineString id="380">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="385">
+                <name>?-89</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="384">
+                    <coordinates>109.1253549233079,-6.968156123699402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="387">
+                <name>Rute ke ?-89</name>
+                <styleUrl>#388</styleUrl>
+                <LineString id="386">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="391">
+                <name>?-90</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="390">
+                    <coordinates>109.1255527362227,-6.968204379651563,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="393">
+                <name>Rute ke ?-90</name>
+                <styleUrl>#394</styleUrl>
+                <LineString id="392">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="397">
+                <name>?-91</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 55m</description>
+                <Point id="396">
+                    <coordinates>109.1254870221019,-6.968279925166692,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="399">
+                <name>Rute ke ?-91</name>
+                <styleUrl>#400</styleUrl>
+                <LineString id="398">
+                    <coordinates>109.1258206,-6.9676027,0.0 109.1257019,-6.9680806,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="403">
+                <name>BOUNDARY_S3B6(17)&amp;S4B7(17)</name>
+                <styleUrl>#408</styleUrl>
+                <Polygon id="402">
+                    <outerBoundaryIs>
+                        <LinearRing id="406">
+                            <coordinates>109.1257716715336,-6.967242587668019,0.0 109.1253549233079,-6.968156123699402,0.0 109.1254870221019,-6.968279925166692,0.0 109.1259007528424,-6.968069928572491,0.0 109.1259262338281,-6.967912514265082,0.0 109.1257716715336,-6.967242587668019,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="410">
+            <Style id="417">
+                <LineStyle id="418">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="423">
+                <LineStyle id="424">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="429">
+                <LineStyle id="430">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="435">
+                <LineStyle id="436">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="441">
+                <LineStyle id="442">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="447">
+                <LineStyle id="448">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="453">
+                <LineStyle id="454">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="459">
+                <LineStyle id="460">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="465">
+                <LineStyle id="466">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="471">
+                <LineStyle id="472">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="479">
+                <PolyStyle id="480">
+                    <color>320000ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S4B8(17)</name>
+            <Placemark id="412">
+                <name>PUSAT_S4B8(17)</name>
+                <Point id="411">
+                    <coordinates>109.126549847424,-6.967716495106504,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="414">
+                <name>?-100</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="413">
+                    <coordinates>109.1268878057599,-6.96777573350263,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>Rute ke ?-100</name>
+                <styleUrl>#417</styleUrl>
+                <LineString id="415">
+                    <coordinates>109.1266514,-6.9677837,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="420">
+                <name>?-101</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="419">
+                    <coordinates>109.1268381848931,-6.967861595883727,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>Rute ke ?-101</name>
+                <styleUrl>#423</styleUrl>
+                <LineString id="421">
+                    <coordinates>109.1266514,-6.9677837,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="426">
+                <name>No 20</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="425">
+                    <coordinates>109.1267339140177,-6.967836635890846,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>Rute ke No 20</name>
+                <styleUrl>#429</styleUrl>
+                <LineString id="427">
+                    <coordinates>109.1266514,-6.9677837,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="432">
+                <name>No 21</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="431">
+                    <coordinates>109.1267352551222,-6.96791118306565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>Rute ke No 21</name>
+                <styleUrl>#435</styleUrl>
+                <LineString id="433">
+                    <coordinates>109.1266514,-6.9677837,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="438">
+                <name>No 41</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="437">
+                    <coordinates>109.1269595548511,-6.967817000695504,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>Rute ke No 41</name>
+                <styleUrl>#441</styleUrl>
+                <LineString id="439">
+                    <coordinates>109.1266514,-6.9677837,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="444">
+                <name>?-42</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 11m</description>
+                <Point id="443">
+                    <coordinates>109.1267345845699,-6.967568399083433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="446">
+                <name>Rute ke ?-42</name>
+                <styleUrl>#447</styleUrl>
+                <LineString id="445">
+                    <coordinates>109.1266514,-6.9677837,0.0 109.1266674,-6.9676817,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="450">
+                <name>?-45</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 11m</description>
+                <Point id="449">
+                    <coordinates>109.1268287971616,-6.967646607101445,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="452">
+                <name>Rute ke ?-45</name>
+                <styleUrl>#453</styleUrl>
+                <LineString id="451">
+                    <coordinates>109.1266514,-6.9677837,0.0 109.1266674,-6.9676817,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="456">
+                <name>?-86</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 11m</description>
+                <Point id="455">
+                    <coordinates>109.1267080977559,-6.967717160706499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="458">
+                <name>Rute ke ?-86</name>
+                <styleUrl>#459</styleUrl>
+                <LineString id="457">
+                    <coordinates>109.1266514,-6.9677837,0.0 109.1266674,-6.9676817,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="462">
+                <name>No 42</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 11m</description>
+                <Point id="461">
+                    <coordinates>109.1267888993025,-6.96774045670584,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="464">
+                <name>Rute ke No 42</name>
+                <styleUrl>#465</styleUrl>
+                <LineString id="463">
+                    <coordinates>109.1266514,-6.9677837,0.0 109.1266674,-6.9676817,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="468">
+                <name>?-93</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 32m</description>
+                <Point id="467">
+                    <coordinates>109.1264382004738,-6.968057614981647,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="470">
+                <name>Rute ke ?-93</name>
+                <styleUrl>#471</styleUrl>
+                <LineString id="469">
+                    <coordinates>109.1266514,-6.9677837,0.0 109.1265912,-6.9680736,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="474">
+                <name>BOUNDARY_S4B8(17)</name>
+                <styleUrl>#479</styleUrl>
+                <Polygon id="473">
+                    <outerBoundaryIs>
+                        <LinearRing id="477">
+                            <coordinates>109.1264382004738,-6.968057614981647,0.0 109.1269595548511,-6.967817000695504,0.0 109.1268287971616,-6.967646607101445,0.0 109.1267345845699,-6.967568399083433,0.0 109.126549847424,-6.967716495106504,0.0 109.1264382004738,-6.968057614981647,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="481">
+            <Style id="488">
+                <LineStyle id="489">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="494">
+                <LineStyle id="495">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="500">
+                <LineStyle id="501">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="506">
+                <LineStyle id="507">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="512">
+                <LineStyle id="513">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="518">
+                <LineStyle id="519">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="524">
+                <LineStyle id="525">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="530">
+                <LineStyle id="531">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="536">
+                <LineStyle id="537">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="542">
+                <LineStyle id="543">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="550">
+                <PolyStyle id="551">
+                    <color>32ff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S4C1(19)&amp;S4C2(19)</name>
+            <Placemark id="483">
+                <name>PUSAT_S4C1(19)&amp;S4C2(19)</name>
+                <Point id="482">
+                    <coordinates>109.1242857277393,-6.96757472228538,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="485">
+                <name>?-11</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="484">
+                    <coordinates>109.1243303194642,-6.967912181465223,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="487">
+                <name>Rute ke ?-11</name>
+                <styleUrl>#488</styleUrl>
+                <LineString id="486">
+                    <coordinates>109.1243333,-6.9675669,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="491">
+                <name>?-13</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="490">
+                    <coordinates>109.1245224326849,-6.967839963889962,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="493">
+                <name>Rute ke ?-13</name>
+                <styleUrl>#494</styleUrl>
+                <LineString id="492">
+                    <coordinates>109.1243333,-6.9675669,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="497">
+                <name>?-43</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="496">
+                    <coordinates>109.1241935268044,-6.967909186266476,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="499">
+                <name>Rute ke ?-43</name>
+                <styleUrl>#500</styleUrl>
+                <LineString id="498">
+                    <coordinates>109.1243333,-6.9675669,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="503">
+                <name>?-12</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="502">
+                    <coordinates>109.1244285553694,-6.96792882145795,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="505">
+                <name>Rute ke ?-12</name>
+                <styleUrl>#506</styleUrl>
+                <LineString id="504">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="509">
+                <name>?-14</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="508">
+                    <coordinates>109.1246501728892,-6.968111861338924,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="511">
+                <name>Rute ke ?-14</name>
+                <styleUrl>#512</styleUrl>
+                <LineString id="510">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="515">
+                <name>?-18</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="514">
+                    <coordinates>109.1241777688265,-6.968083240562247,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="517">
+                <name>Rute ke ?-18</name>
+                <styleUrl>#518</styleUrl>
+                <LineString id="516">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="521">
+                <name>?-24</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="520">
+                    <coordinates>109.1240859031677,-6.96804130779327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="523">
+                <name>Rute ke ?-24</name>
+                <styleUrl>#524</styleUrl>
+                <LineString id="522">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="527">
+                <name>?-57</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="526">
+                    <coordinates>109.1244412958622,-6.968252635598748,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="529">
+                <name>Rute ke ?-57</name>
+                <styleUrl>#530</styleUrl>
+                <LineString id="528">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="533">
+                <name>No 6</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="532">
+                    <coordinates>109.1240513697267,-6.968191067665254,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="535">
+                <name>Rute ke No 6</name>
+                <styleUrl>#536</styleUrl>
+                <LineString id="534">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="539">
+                <name>No 7</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 143m</description>
+                <Point id="538">
+                    <coordinates>109.1239591687918,-6.968194062862207,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="541">
+                <name>Rute ke No 7</name>
+                <styleUrl>#542</styleUrl>
+                <LineString id="540">
+                    <coordinates>109.1243333,-6.9675669,0.0 109.1247911,-6.9675844,0.0 109.1248034,-6.9681959,0.0 109.1245781,-6.9681871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="545">
+                <name>BOUNDARY_S4C1(19)&amp;S4C2(19)</name>
+                <styleUrl>#550</styleUrl>
+                <Polygon id="544">
+                    <outerBoundaryIs>
+                        <LinearRing id="548">
+                            <coordinates>109.1242857277393,-6.96757472228538,0.0 109.1239591687918,-6.968194062862207,0.0 109.1244412958622,-6.968252635598748,0.0 109.1246501728892,-6.968111861338924,0.0 109.1245224326849,-6.967839963889962,0.0 109.1242857277393,-6.96757472228538,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="552">
+            <Style id="559">
+                <LineStyle id="560">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="565">
+                <LineStyle id="566">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="571">
+                <LineStyle id="572">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="577">
+                <LineStyle id="578">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="583">
+                <LineStyle id="584">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="589">
+                <LineStyle id="590">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="595">
+                <LineStyle id="596">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="601">
+                <LineStyle id="602">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="607">
+                <LineStyle id="608">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="615">
+                <PolyStyle id="616">
+                    <color>32008000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S4C3(20)&amp;S4C4(16)</name>
+            <Placemark id="554">
+                <name>PUSAT_S4C3(20)&amp;S4C4(16)</name>
+                <Point id="553">
+                    <coordinates>109.1229690983891,-6.967536450272323,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="556">
+                <name>?-30</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="555">
+                    <coordinates>109.1230747103691,-6.967829647092592,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="558">
+                <name>Rute ke ?-30</name>
+                <styleUrl>#559</styleUrl>
+                <LineString id="557">
+                    <coordinates>109.1231088,-6.9675772,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="562">
+                <name>?-31</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="561">
+                    <coordinates>109.1230596229434,-6.967907189467301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="564">
+                <name>Rute ke ?-31</name>
+                <styleUrl>#565</styleUrl>
+                <LineString id="563">
+                    <coordinates>109.1231088,-6.9675772,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="568">
+                <name>?-35</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="567">
+                    <coordinates>109.1232306137681,-6.967924827859755,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="570">
+                <name>Rute ke ?-35</name>
+                <styleUrl>#571</styleUrl>
+                <LineString id="569">
+                    <coordinates>109.1231088,-6.9675772,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="574">
+                <name>?-37</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="573">
+                    <coordinates>109.1232182085514,-6.968028994201663,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="576">
+                <name>Rute ke ?-37</name>
+                <styleUrl>#577</styleUrl>
+                <LineString id="575">
+                    <coordinates>109.1231088,-6.9675772,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="580">
+                <name>No 23</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="579">
+                    <coordinates>109.1231672465801,-6.967898536670762,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="582">
+                <name>Rute ke No 23</name>
+                <styleUrl>#583</styleUrl>
+                <LineString id="581">
+                    <coordinates>109.1231088,-6.9675772,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="586">
+                <name>No 25</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="585">
+                    <coordinates>109.123338572681,-6.967955778244904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="588">
+                <name>Rute ke No 25</name>
+                <styleUrl>#589</styleUrl>
+                <LineString id="587">
+                    <coordinates>109.1231088,-6.9675772,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="592">
+                <name>?-17</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 249m</description>
+                <Point id="591">
+                    <coordinates>109.1231270134449,-6.968896935217713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="594">
+                <name>Rute ke ?-17</name>
+                <styleUrl>#595</styleUrl>
+                <LineString id="593">
+                    <coordinates>109.1231088,-6.9675772,0.0 109.1227636,-6.967616,0.0 109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0 109.1232057,-6.9690871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="598">
+                <name>No 10</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 249m</description>
+                <Point id="597">
+                    <coordinates>109.1230160370469,-6.969076646730334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="600">
+                <name>Rute ke No 10</name>
+                <styleUrl>#601</styleUrl>
+                <LineString id="599">
+                    <coordinates>109.1231088,-6.9675772,0.0 109.1227636,-6.967616,0.0 109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0 109.1232057,-6.9690871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="604">
+                <name>No 46</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 249m</description>
+                <Point id="603">
+                    <coordinates>109.1231830045581,-6.968767143526851,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="606">
+                <name>Rute ke No 46</name>
+                <styleUrl>#607</styleUrl>
+                <LineString id="605">
+                    <coordinates>109.1231088,-6.9675772,0.0 109.1227636,-6.967616,0.0 109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0 109.1232057,-6.9690871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="610">
+                <name>BOUNDARY_S4C3(20)&amp;S4C4(16)</name>
+                <styleUrl>#615</styleUrl>
+                <Polygon id="609">
+                    <outerBoundaryIs>
+                        <LinearRing id="613">
+                            <coordinates>109.123338572681,-6.967955778244904,0.0 109.1229690983891,-6.967536450272323,0.0 109.1230160370469,-6.969076646730334,0.0 109.1231270134449,-6.968896935217713,0.0 109.1231830045581,-6.968767143526851,0.0 109.123338572681,-6.967955778244904,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="617">
+            <Style id="624">
+                <LineStyle id="625">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="630">
+                <LineStyle id="631">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="636">
+                <LineStyle id="637">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="642">
+                <LineStyle id="643">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="648">
+                <LineStyle id="649">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="654">
+                <LineStyle id="655">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="660">
+                <LineStyle id="661">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="666">
+                <LineStyle id="667">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="672">
+                <LineStyle id="673">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="678">
+                <LineStyle id="679">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="686">
+                <PolyStyle id="687">
+                    <color>3200ffff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S5C7(18)</name>
+            <Placemark id="619">
+                <name>PUSAT_S5C7(18)</name>
+                <Point id="618">
+                    <coordinates>109.1226666793227,-6.967827650293075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="621">
+                <name>?-32</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="620">
+                    <coordinates>109.1229523345828,-6.967907189467301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="623">
+                <name>Rute ke ?-32</name>
+                <styleUrl>#624</styleUrl>
+                <LineString id="622">
+                    <coordinates>109.1227609,-6.9677305,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="627">
+                <name>?-26</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 12m</description>
+                <Point id="626">
+                    <coordinates>109.1223578900099,-6.967517480664688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="629">
+                <name>Rute ke ?-26</name>
+                <styleUrl>#630</styleUrl>
+                <LineString id="628">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1227636,-6.967616,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="633">
+                <name>?-27</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 12m</description>
+                <Point id="632">
+                    <coordinates>109.1222107037902,-6.967448258230351,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="635">
+                <name>Rute ke ?-27</name>
+                <styleUrl>#636</styleUrl>
+                <LineString id="634">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1227636,-6.967616,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="639">
+                <name>?-40</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 87m</description>
+                <Point id="638">
+                    <coordinates>109.1230978444219,-6.968549159965196,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="641">
+                <name>Rute ke ?-40</name>
+                <styleUrl>#642</styleUrl>
+                <LineString id="640">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="645">
+                <name>No 49</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 87m</description>
+                <Point id="644">
+                    <coordinates>109.1230200603604,-6.968502235246296,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="647">
+                <name>Rute ke No 49</name>
+                <styleUrl>#648</styleUrl>
+                <LineString id="646">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="651">
+                <name>No 51</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 87m</description>
+                <Point id="650">
+                    <coordinates>109.1229560226202,-6.96846995369936,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="653">
+                <name>Rute ke No 51</name>
+                <styleUrl>#654</styleUrl>
+                <LineString id="652">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="657">
+                <name>No 53</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 87m</description>
+                <Point id="656">
+                    <coordinates>109.1229194775224,-6.968473614493462,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="659">
+                <name>Rute ke No 53</name>
+                <styleUrl>#660</styleUrl>
+                <LineString id="658">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="663">
+                <name>No 55</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 87m</description>
+                <Point id="662">
+                    <coordinates>109.1228688508272,-6.96846895530097,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="665">
+                <name>Rute ke No 55</name>
+                <styleUrl>#666</styleUrl>
+                <LineString id="664">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="669">
+                <name>?-1</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 198m</description>
+                <Point id="668">
+                    <coordinates>109.123108908534,-6.968740852385096,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="671">
+                <name>Rute ke ?-1</name>
+                <styleUrl>#672</styleUrl>
+                <LineString id="670">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0 109.1232057,-6.9690871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="675">
+                <name>?-16</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 198m</description>
+                <Point id="674">
+                    <coordinates>109.1231065616012,-6.968995443759088,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="677">
+                <name>Rute ke ?-16</name>
+                <styleUrl>#678</styleUrl>
+                <LineString id="676">
+                    <coordinates>109.1227609,-6.9677305,0.0 109.1226898,-6.9682084,0.0 109.122658,-6.9685086,0.0 109.1232057,-6.9690871,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="681">
+                <name>BOUNDARY_S5C7(18)</name>
+                <styleUrl>#686</styleUrl>
+                <Polygon id="680">
+                    <outerBoundaryIs>
+                        <LinearRing id="684">
+                            <coordinates>109.1222107037902,-6.967448258230351,0.0 109.1231065616012,-6.968995443759088,0.0 109.123108908534,-6.968740852385096,0.0 109.1230978444219,-6.968549159965196,0.0 109.1229523345828,-6.967907189467301,0.0 109.1223578900099,-6.967517480664688,0.0 109.1222107037902,-6.967448258230351,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="688">
+            <Style id="695">
+                <LineStyle id="696">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="701">
+                <LineStyle id="702">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="707">
+                <LineStyle id="708">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="713">
+                <LineStyle id="714">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="719">
+                <LineStyle id="720">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="725">
+                <LineStyle id="726">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="731">
+                <LineStyle id="732">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="737">
+                <LineStyle id="738">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="743">
+                <LineStyle id="744">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="749">
+                <LineStyle id="750">
+                    <color>ff800080</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="757">
+                <PolyStyle id="758">
+                    <color>32800080</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S5C8(18)</name>
+            <Placemark id="690">
+                <name>PUSAT_S5C8(18)</name>
+                <Point id="689">
+                    <coordinates>109.122603982687,-6.968188738067608,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="692">
+                <name>?-7</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="691">
+                    <coordinates>109.1232138499618,-6.968375438641948,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="694">
+                <name>Rute ke ?-7</name>
+                <styleUrl>#695</styleUrl>
+                <LineString id="693">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="698">
+                <name>?-20</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="697">
+                    <coordinates>109.1228990256786,-6.968305217935552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="700">
+                <name>Rute ke ?-20</name>
+                <styleUrl>#701</styleUrl>
+                <LineString id="699">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="704">
+                <name>?-22</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="703">
+                    <coordinates>109.1233114153147,-6.968197390858791,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="706">
+                <name>Rute ke ?-22</name>
+                <styleUrl>#707</styleUrl>
+                <LineString id="705">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="710">
+                <name>?-23</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="709">
+                    <coordinates>109.1232017800212,-6.968195061261183,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="712">
+                <name>Rute ke ?-23</name>
+                <styleUrl>#713</styleUrl>
+                <LineString id="711">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="716">
+                <name>?-25</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="715">
+                    <coordinates>109.1229104250669,-6.968181083675273,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="718">
+                <name>Rute ke ?-25</name>
+                <styleUrl>#719</styleUrl>
+                <LineString id="717">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="722">
+                <name>No 27</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="721">
+                    <coordinates>109.1233080625534,-6.968274933172676,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="724">
+                <name>Rute ke No 27</name>
+                <styleUrl>#725</styleUrl>
+                <LineString id="723">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="728">
+                <name>No 29</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="727">
+                    <coordinates>109.1230887919664,-6.968192731663565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="730">
+                <name>Rute ke No 29</name>
+                <styleUrl>#731</styleUrl>
+                <LineString id="729">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="734">
+                <name>No 37</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="733">
+                    <coordinates>109.1229426115751,-6.968311208327973,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="736">
+                <name>Rute ke No 37</name>
+                <styleUrl>#737</styleUrl>
+                <LineString id="735">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="740">
+                <name>No 38</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="739">
+                    <coordinates>109.1229942440987,-6.968326849907843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="742">
+                <name>Rute ke No 38</name>
+                <styleUrl>#743</styleUrl>
+                <LineString id="741">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="746">
+                <name>No 39</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="745">
+                    <coordinates>109.1230606287718,-6.968346152282259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="748">
+                <name>Rute ke No 39</name>
+                <styleUrl>#749</styleUrl>
+                <LineString id="747">
+                    <coordinates>109.1226898,-6.9682084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="752">
+                <name>BOUNDARY_S5C8(18)</name>
+                <styleUrl>#757</styleUrl>
+                <Polygon id="751">
+                    <outerBoundaryIs>
+                        <LinearRing id="755">
+                            <coordinates>109.1233080625534,-6.968274933172676,0.0 109.1233114153147,-6.968197390858791,0.0 109.1229104250669,-6.968181083675273,0.0 109.122603982687,-6.968188738067608,0.0 109.1228990256786,-6.968305217935552,0.0 109.1230606287718,-6.968346152282259,0.0 109.1232138499618,-6.968375438641948,0.0 109.1233080625534,-6.968274933172676,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="759">
+            <Style id="766">
+                <LineStyle id="767">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="772">
+                <LineStyle id="773">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="778">
+                <LineStyle id="779">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="784">
+                <LineStyle id="785">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="790">
+                <LineStyle id="791">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="796">
+                <LineStyle id="797">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="802">
+                <LineStyle id="803">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="808">
+                <LineStyle id="809">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="814">
+                <LineStyle id="815">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="820">
+                <LineStyle id="821">
+                    <color>ff00a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="828">
+                <PolyStyle id="829">
+                    <color>3200a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S5C9(18)&amp;S5C10(20)</name>
+            <Placemark id="761">
+                <name>PUSAT_S5C9(18)&amp;S5C10(20)</name>
+                <Point id="760">
+                    <coordinates>109.1225446388125,-6.968764813932069,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="763">
+                <name>?-8</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="762">
+                    <coordinates>109.1228242591023,-6.968869978484867,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="765">
+                <name>Rute ke ?-8</name>
+                <styleUrl>#766</styleUrl>
+                <LineString id="764">
+                    <coordinates>109.1226003,-6.9689391,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="769">
+                <name>?-9</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="768">
+                    <coordinates>109.1228839382529,-6.968879962460178,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="771">
+                <name>Rute ke ?-9</name>
+                <styleUrl>#772</styleUrl>
+                <LineString id="770">
+                    <coordinates>109.1226003,-6.9689391,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="775">
+                <name>?-10</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="774">
+                    <coordinates>109.1228363290429,-6.96901574450322,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="777">
+                <name>Rute ke ?-10</name>
+                <styleUrl>#778</styleUrl>
+                <LineString id="776">
+                    <coordinates>109.1226003,-6.9689391,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="781">
+                <name>?-15</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 31m</description>
+                <Point id="780">
+                    <coordinates>109.1227675974369,-6.969952240170007,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="783">
+                <name>Rute ke ?-15</name>
+                <styleUrl>#784</styleUrl>
+                <LineString id="782">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.1225608,-6.9692164,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="787">
+                <name>?-44</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 31m</description>
+                <Point id="786">
+                    <coordinates>109.1227092593908,-6.969829104741414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="789">
+                <name>Rute ke ?-44</name>
+                <styleUrl>#790</styleUrl>
+                <LineString id="788">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.1225608,-6.9692164,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="793">
+                <name>No 49</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 31m</description>
+                <Point id="792">
+                    <coordinates>109.1226837784052,-6.969943587411227,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="795">
+                <name>Rute ke No 49</name>
+                <styleUrl>#796</styleUrl>
+                <LineString id="794">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.1225608,-6.9692164,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="799">
+                <name>?-2</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 48m</description>
+                <Point id="798">
+                    <coordinates>109.1230170428753,-6.968712897245413,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="801">
+                <name>Rute ke ?-2</name>
+                <styleUrl>#802</styleUrl>
+                <LineString id="800">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="805">
+                <name>?-3</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 48m</description>
+                <Point id="804">
+                    <coordinates>109.1229405999184,-6.968684942104061,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="807">
+                <name>Rute ke ?-3</name>
+                <styleUrl>#808</styleUrl>
+                <LineString id="806">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="811">
+                <name>?-4</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 48m</description>
+                <Point id="810">
+                    <coordinates>109.1228601336479,-6.968648999777018,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="813">
+                <name>Rute ke ?-4</name>
+                <styleUrl>#814</styleUrl>
+                <LineString id="812">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="817">
+                <name>?-5</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 48m</description>
+                <Point id="816">
+                    <coordinates>109.1231541708112,-6.968449652931603,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="819">
+                <name>Rute ke ?-5</name>
+                <styleUrl>#820</styleUrl>
+                <LineString id="818">
+                    <coordinates>109.1226003,-6.9689391,0.0 109.122658,-6.9685086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="823">
+                <name>BOUNDARY_S5C9(18)&amp;S5C10(20)</name>
+                <styleUrl>#828</styleUrl>
+                <Polygon id="822">
+                    <outerBoundaryIs>
+                        <LinearRing id="826">
+                            <coordinates>109.1231541708112,-6.968449652931603,0.0 109.1225446388125,-6.968764813932069,0.0 109.1226837784052,-6.969943587411227,0.0 109.1227675974369,-6.969952240170007,0.0 109.1231541708112,-6.968449652931603,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="830">
+            <Style id="837">
+                <LineStyle id="838">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="843">
+                <LineStyle id="844">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="849">
+                <LineStyle id="850">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="855">
+                <LineStyle id="856">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="861">
+                <LineStyle id="862">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="867">
+                <LineStyle id="868">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="873">
+                <LineStyle id="874">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="879">
+                <LineStyle id="880">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="885">
+                <LineStyle id="886">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="891">
+                <LineStyle id="892">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="899">
+                <PolyStyle id="900">
+                    <color>320000ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_S6C15(19)</name>
+            <Placemark id="832">
+                <name>PUSAT_S6C15(19)</name>
+                <Point id="831">
+                    <coordinates>109.1233989223838,-6.969653719899432,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="834">
+                <name>?-6</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="833">
+                    <coordinates>109.123399592936,-6.969227404668329,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="836">
+                <name>Rute ke ?-6</name>
+                <styleUrl>#837</styleUrl>
+                <LineString id="835">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="840">
+                <name>?-19</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="839">
+                    <coordinates>109.1228779032826,-6.970021129436216,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="842">
+                <name>Rute ke ?-19</name>
+                <styleUrl>#843</styleUrl>
+                <LineString id="841">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="846">
+                <name>?-21</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="845">
+                    <coordinates>109.1229362413287,-6.96984940544944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="848">
+                <name>Rute ke ?-21</name>
+                <styleUrl>#849</styleUrl>
+                <LineString id="847">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="852">
+                <name>?-36</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="851">
+                    <coordinates>109.1233610361814,-6.969380824948383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="854">
+                <name>Rute ke ?-36</name>
+                <styleUrl>#855</styleUrl>
+                <LineString id="853">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="858">
+                <name>?-39</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="857">
+                    <coordinates>109.1228986904025,-6.969934269055416,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="860">
+                <name>Rute ke ?-39</name>
+                <styleUrl>#861</styleUrl>
+                <LineString id="859">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="864">
+                <name>?-103</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="863">
+                    <coordinates>109.1228970140219,-6.970090018692296,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="866">
+                <name>Rute ke ?-103</name>
+                <styleUrl>#867</styleUrl>
+                <LineString id="865">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="870">
+                <name>No 18</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="869">
+                    <coordinates>109.1232705116272,-6.969364850604863,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="872">
+                <name>Rute ke No 18</name>
+                <styleUrl>#873</styleUrl>
+                <LineString id="871">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="876">
+                <name>No 19</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="875">
+                    <coordinates>109.1232674941421,-6.969198783959767,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="878">
+                <name>Rute ke No 19</name>
+                <styleUrl>#879</styleUrl>
+                <LineString id="877">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="882">
+                <name>No 20</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="881">
+                    <coordinates>109.1233375668526,-6.969208435129126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="884">
+                <name>Rute ke No 20</name>
+                <styleUrl>#885</styleUrl>
+                <LineString id="883">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="888">
+                <name>No 21</name>
+                <description>Melewati: Jalan tidak bernama
+Jarak: 0m</description>
+                <Point id="887">
+                    <coordinates>109.1234733536839,-6.96923605744034,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="890">
+                <name>Rute ke No 21</name>
+                <styleUrl>#891</styleUrl>
+                <LineString id="889">
+                    <coordinates>109.1231981,-6.9692755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="894">
+                <name>BOUNDARY_S6C15(19)</name>
+                <styleUrl>#899</styleUrl>
+                <Polygon id="893">
+                    <outerBoundaryIs>
+                        <LinearRing id="897">
+                            <coordinates>109.1233989223838,-6.969653719899432,0.0 109.1234733536839,-6.96923605744034,0.0 109.1233375668526,-6.969208435129126,0.0 109.1232674941421,-6.969198783959767,0.0 109.1229362413287,-6.96984940544944,0.0 109.1228986904025,-6.969934269055416,0.0 109.1228779032826,-6.970021129436216,0.0 109.1228970140219,-6.970090018692296,0.0 109.1233989223838,-6.969653719899432,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

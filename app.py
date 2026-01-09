@@ -42,23 +42,27 @@ def load_data(uploaded_file):
         return None
 
 def get_street_names(G, path):
-    """Mengambil nama-nama jalan yang unik di sepanjang rute."""
+    """Mengambil nama jalan dengan pengecekan atribut yang lebih luas."""
     names = []
-    for u, v in zip(path[:-1], path[1:]):
-        edge_data = G.get_edge_data(u, v)
-        if edge_data:
-            # Mengambil data jalan pertama (indeks 0) jika ada multiple edges
-            data = edge_data[0]
-            if 'name' in data:
-                name = data['name']
-                if isinstance(name, list):
-                    names.extend(name)
-                else:
-                    names.append(name)
-    return ", ".join(set(names)) if names else "Jalan tidak bernama"
+    # Loop melalui setiap edge dalam path
+    edges = ox.utils_graph.get_route_edge_attributes(G, path)
+    
+    for edge in edges:
+        if 'name' in edge:
+            name = edge['name']
+            if isinstance(name, list):
+                names.extend([str(n) for n in name])
+            else:
+                names.append(str(name))
+        elif 'ref' in edge: # Jika nama tidak ada, coba ambil referensi jalan (misal: kode jalan)
+            names.append(str(edge['ref']))
+            
+    # Membersihkan list dan mengambil nama unik
+    unique_names = sorted(list(set([n for n in names if n])))
+    return ", ".join(unique_names) if unique_names else "Jalan lokal/tidak bernama"
 
 st.set_page_config(page_title="ISP Network Planner Pro", layout="wide")
-st.title("🌐 ISP Network Planner: Full Spatial Analysis")
+st.title("🌐 ISP Network Planner: Full Spatial & Street Analysis")
 
 # Sidebar
 st.sidebar.header("⚙️ Parameter")
@@ -79,10 +83,12 @@ if file_tiang and file_rumah:
         st.success(f"✅ Data Terdeteksi: {len(gdf_tiang)} Tiang & {len(gdf_rumah)} Rumah")
         
         if st.button("🚀 JALANKAN ANALISIS OPTIMASI LENGKAP"):
-            with st.spinner("Mengunduh data jalan dan memproses rute..."):
+            with st.spinner("Mengunduh data jalan (termasuk jalan setapak) dan memproses rute..."):
                 avg_lat, avg_lon = gdf_tiang.geometry.y.mean(), gdf_tiang.geometry.x.mean()
-                # Mengunduh graph jalan dengan informasi nama jalan
-                G = ox.graph_from_point((avg_lat, avg_lon), dist=3000, network_type='drive')
+                
+                # network_type='all' akan mengambil semua jalur (mobil, motor, jalan kaki)
+                # agar jalan kecil di pemukiman masuk ke sistem
+                G = ox.graph_from_point((avg_lat, avg_lon), dist=3000, network_type='all')
                 
                 kml_out = simplekml.Kml()
                 colors = [simplekml.Color.red, simplekml.Color.blue, simplekml.Color.green, 
@@ -111,7 +117,6 @@ if file_tiang and file_rumah:
                                 })
                         except: continue
 
-                # Alokasi Global
                 all_connections = sorted(all_connections, key=lambda x: x['dist'])
                 taken_homes = set()
                 pole_load = {t['id']: 0 for t in tiang_list}
@@ -124,7 +129,6 @@ if file_tiang and file_rumah:
                         t_node = tiang_list[t_idx]['node']
                         path = nx.shortest_path(G, t_node, conn['r_node'], weight='length')
                         
-                        # Ambil nama jalan
                         street_names = get_street_names(G, path)
                         
                         conn['path'] = [(G.nodes[n]['x'], G.nodes[n]['y']) for n in path]
@@ -168,7 +172,6 @@ if file_tiang and file_rumah:
                         poly.outerboundaryis = [(p[0], p[1]) for p in hull_pts]
                         poly.style.polystyle.color = simplekml.Color.changealphaint(50, colors[t_idx % len(colors)])
 
-                # Uncovered data
                 for j, rumah in gdf_rumah.iterrows():
                     if j not in taken_homes:
                         csv_data.append({
@@ -180,7 +183,6 @@ if file_tiang and file_rumah:
                             'LATITUDE': rumah.geometry.y
                         })
 
-                # Export
                 df_csv = pd.DataFrame(csv_data)
                 kml_path = "ISP_Analysis_Final.kml"
                 kml_out.save(kml_path)
