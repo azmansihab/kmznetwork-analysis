@@ -1,0 +1,4332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6225">
+        <Folder id="6226">
+            <Style id="6231">
+                <IconStyle id="6232">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6233">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6236">
+                <LineStyle id="6237">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6240">
+                <IconStyle id="6241">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6242">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6245">
+                <LineStyle id="6246">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6249">
+                <IconStyle id="6250">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6251">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6254">
+                <LineStyle id="6255">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6258">
+                <IconStyle id="6259">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6260">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6263">
+                <LineStyle id="6264">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6267">
+                <IconStyle id="6268">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6269">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6272">
+                <LineStyle id="6273">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6276">
+                <IconStyle id="6277">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6278">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6281">
+                <LineStyle id="6282">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6289">
+                <PolyStyle id="6290">
+                    <color>280000ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S03B01</name>
+            <Placemark id="6228">
+                <name>PUSAT_FHM191S03B01</name>
+                <Point id="6227">
+                    <coordinates>98.66778144497219,3.587399161838012,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6230">
+                <name>FHM191S03B01-?-21</name>
+                <styleUrl>#6231</styleUrl>
+                <Point id="6229">
+                    <coordinates>98.66971928626299,3.586726026201014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6235">
+                <name>Route ?-21 (238m)</name>
+                <styleUrl>#6236</styleUrl>
+                <LineString id="6234">
+                    <coordinates>98.667372,3.5874793,0.0 98.6694205,3.5869486,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6239">
+                <name>FHM191S03B01-?-22</name>
+                <styleUrl>#6240</styleUrl>
+                <Point id="6238">
+                    <coordinates>98.66970855742693,3.586664790847983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6244">
+                <name>Route ?-22 (238m)</name>
+                <styleUrl>#6245</styleUrl>
+                <LineString id="6243">
+                    <coordinates>98.667372,3.5874793,0.0 98.6694205,3.5869486,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6248">
+                <name>FHM191S03B01-?-23</name>
+                <styleUrl>#6249</styleUrl>
+                <Point id="6247">
+                    <coordinates>98.66971023380756,3.586631663524142,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6253">
+                <name>Route ?-23 (238m)</name>
+                <styleUrl>#6254</styleUrl>
+                <LineString id="6252">
+                    <coordinates>98.667372,3.5874793,0.0 98.6694205,3.5869486,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6257">
+                <name>FHM191S03B01-?-31</name>
+                <styleUrl>#6258</styleUrl>
+                <Point id="6256">
+                    <coordinates>98.66929348558187,3.58731897159307,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6262">
+                <name>Route ?-31 (238m)</name>
+                <styleUrl>#6263</styleUrl>
+                <LineString id="6261">
+                    <coordinates>98.667372,3.5874793,0.0 98.6694205,3.5869486,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6266">
+                <name>FHM191S03B01-?-32</name>
+                <styleUrl>#6267</styleUrl>
+                <Point id="6265">
+                    <coordinates>98.66922978311777,3.587340721839973,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6271">
+                <name>Route ?-32 (238m)</name>
+                <styleUrl>#6272</styleUrl>
+                <LineString id="6270">
+                    <coordinates>98.667372,3.5874793,0.0 98.6694205,3.5869486,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6275">
+                <name>FHM191S03B01-?-92</name>
+                <styleUrl>#6276</styleUrl>
+                <Point id="6274">
+                    <coordinates>98.66911746561527,3.587149654268664,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6280">
+                <name>Route ?-92 (238m)</name>
+                <styleUrl>#6281</styleUrl>
+                <LineString id="6279">
+                    <coordinates>98.667372,3.5874793,0.0 98.6694205,3.5869486,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6284">
+                <name>BOUNDARY_FHM191S03B01</name>
+                <styleUrl>#6289</styleUrl>
+                <Polygon id="6283">
+                    <outerBoundaryIs>
+                        <LinearRing id="6287">
+                            <coordinates>98.66778144497219,3.587399161838012,0.0 98.66971023380756,3.586631663524142,0.0 98.66971928626299,3.586726026201014,0.0 98.66929348558187,3.58731897159307,0.0 98.66922978311777,3.587340721839973,0.0 98.66778144497219,3.587399161838012,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="6291">
+            <name>AREA_FHM191S03B02</name>
+            <Placemark id="6293">
+                <name>PUSAT_FHM191S03B02</name>
+                <Point id="6292">
+                    <coordinates>98.66807415845125,3.587275685399114,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6294">
+            <Style id="6299">
+                <IconStyle id="6300">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6301">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6304">
+                <LineStyle id="6305">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6308">
+                <IconStyle id="6309">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6310">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6313">
+                <LineStyle id="6314">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6317">
+                <IconStyle id="6318">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6319">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6322">
+                <LineStyle id="6323">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6326">
+                <IconStyle id="6327">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6328">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6331">
+                <LineStyle id="6332">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6335">
+                <IconStyle id="6336">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6337">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6340">
+                <LineStyle id="6341">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6344">
+                <IconStyle id="6345">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6346">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6349">
+                <LineStyle id="6350">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6353">
+                <IconStyle id="6354">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6355">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6358">
+                <LineStyle id="6359">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6362">
+                <IconStyle id="6363">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6364">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6367">
+                <LineStyle id="6368">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6371">
+                <IconStyle id="6372">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6373">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6376">
+                <LineStyle id="6377">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6380">
+                <IconStyle id="6381">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6382">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6385">
+                <LineStyle id="6386">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6389">
+                <IconStyle id="6390">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6391">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6394">
+                <LineStyle id="6395">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6398">
+                <IconStyle id="6399">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6400">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6403">
+                <LineStyle id="6404">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6407">
+                <IconStyle id="6408">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6409">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6412">
+                <LineStyle id="6413">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6416">
+                <IconStyle id="6417">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6418">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6421">
+                <LineStyle id="6422">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6425">
+                <IconStyle id="6426">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6427">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6430">
+                <LineStyle id="6431">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6434">
+                <IconStyle id="6435">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6436">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6439">
+                <LineStyle id="6440">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6443">
+                <IconStyle id="6444">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6445">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6448">
+                <LineStyle id="6449">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6452">
+                <IconStyle id="6453">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6454">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6457">
+                <LineStyle id="6458">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6461">
+                <IconStyle id="6462">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6463">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6466">
+                <LineStyle id="6467">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6470">
+                <IconStyle id="6471">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6472">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6475">
+                <LineStyle id="6476">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6483">
+                <PolyStyle id="6484">
+                    <color>28008000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S03B03</name>
+            <Placemark id="6296">
+                <name>PUSAT_FHM191S03B03</name>
+                <Point id="6295">
+                    <coordinates>98.66881819744343,3.586866438231314,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6298">
+                <name>FHM191S03B03-?-17</name>
+                <styleUrl>#6299</styleUrl>
+                <Point id="6297">
+                    <coordinates>98.6701886728406,3.587620128811927,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6303">
+                <name>Route ?-17 (82m)</name>
+                <styleUrl>#6304</styleUrl>
+                <LineString id="6302">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6700148,3.5869705,0.0 98.6701663,3.5869713,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6307">
+                <name>FHM191S03B03-?-33</name>
+                <styleUrl>#6308</styleUrl>
+                <Point id="6306">
+                    <coordinates>98.66920027881861,3.587373514518954,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6312">
+                <name>Route ?-33 (101m)</name>
+                <styleUrl>#6313</styleUrl>
+                <LineString id="6311">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6316">
+                <name>FHM191S03B03-?-45</name>
+                <styleUrl>#6317</styleUrl>
+                <Point id="6315">
+                    <coordinates>98.66938769817352,3.58741266496068,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6321">
+                <name>Route ?-45 (101m)</name>
+                <styleUrl>#6322</styleUrl>
+                <LineString id="6320">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6325">
+                <name>FHM191S03B03-?-30</name>
+                <styleUrl>#6326</styleUrl>
+                <Point id="6324">
+                    <coordinates>98.66909265518188,3.587453823115565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6330">
+                <name>Route ?-30 (122m)</name>
+                <styleUrl>#6331</styleUrl>
+                <LineString id="6329">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6334">
+                <name>FHM191S03B03-?-34</name>
+                <styleUrl>#6335</styleUrl>
+                <Point id="6333">
+                    <coordinates>98.66915334016085,3.587386899285552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6339">
+                <name>Route ?-34 (122m)</name>
+                <styleUrl>#6340</styleUrl>
+                <LineString id="6338">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6343">
+                <name>FHM191S03B03-?-35</name>
+                <styleUrl>#6344</styleUrl>
+                <Point id="6342">
+                    <coordinates>98.66911444813013,3.587387903143035,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6348">
+                <name>Route ?-35 (122m)</name>
+                <styleUrl>#6349</styleUrl>
+                <LineString id="6347">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6352">
+                <name>FHM191S03B03-?-36</name>
+                <styleUrl>#6353</styleUrl>
+                <Point id="6351">
+                    <coordinates>98.66902191191912,3.587402961005195,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6357">
+                <name>Route ?-36 (122m)</name>
+                <styleUrl>#6358</styleUrl>
+                <LineString id="6356">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6361">
+                <name>FHM191S03B03-?-37</name>
+                <styleUrl>#6362</styleUrl>
+                <Point id="6360">
+                    <coordinates>98.66897832602262,3.587403295624356,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6366">
+                <name>Route ?-37 (122m)</name>
+                <styleUrl>#6367</styleUrl>
+                <LineString id="6365">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6370">
+                <name>FHM191S03B03-?-38</name>
+                <styleUrl>#6371</styleUrl>
+                <Point id="6369">
+                    <coordinates>98.66899374872446,3.587491635077366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6375">
+                <name>Route ?-38 (122m)</name>
+                <styleUrl>#6376</styleUrl>
+                <LineString id="6374">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6379">
+                <name>FHM191S03B03-?-39</name>
+                <styleUrl>#6380</styleUrl>
+                <Point id="6378">
+                    <coordinates>98.66894546896219,3.587505689080468,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6384">
+                <name>Route ?-39 (122m)</name>
+                <styleUrl>#6385</styleUrl>
+                <LineString id="6383">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6388">
+                <name>FHM191S03B03-?-40</name>
+                <styleUrl>#6389</styleUrl>
+                <Point id="6387">
+                    <coordinates>98.66890221834183,3.587503346746634,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6393">
+                <name>Route ?-40 (122m)</name>
+                <styleUrl>#6394</styleUrl>
+                <LineString id="6392">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6397">
+                <name>FHM191S03B03-?-41</name>
+                <styleUrl>#6398</styleUrl>
+                <Point id="6396">
+                    <coordinates>98.66883214563131,3.587516731511323,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6402">
+                <name>Route ?-41 (122m)</name>
+                <styleUrl>#6403</styleUrl>
+                <LineString id="6401">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6406">
+                <name>FHM191S03B03-?-42</name>
+                <styleUrl>#6407</styleUrl>
+                <Point id="6405">
+                    <coordinates>98.66883181035519,3.587414338056446,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6411">
+                <name>Route ?-42 (122m)</name>
+                <styleUrl>#6412</styleUrl>
+                <LineString id="6410">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6415">
+                <name>FHM191S03B03-?-43</name>
+                <styleUrl>#6416</styleUrl>
+                <Point id="6414">
+                    <coordinates>98.66876408457756,3.587511712224585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6420">
+                <name>Route ?-43 (122m)</name>
+                <styleUrl>#6421</styleUrl>
+                <LineString id="6419">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6424">
+                <name>FHM191S03B03-?-44</name>
+                <styleUrl>#6425</styleUrl>
+                <Point id="6423">
+                    <coordinates>98.66869501769543,3.587476242597533,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6429">
+                <name>Route ?-44 (122m)</name>
+                <styleUrl>#6430</styleUrl>
+                <LineString id="6428">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6691493,3.5878086,0.0 98.6689666,3.587763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6433">
+                <name>FHM191S03B03-?-19</name>
+                <styleUrl>#6434</styleUrl>
+                <Point id="6432">
+                    <coordinates>98.669877871871,3.586480415525276,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6438">
+                <name>Route ?-19 (164m)</name>
+                <styleUrl>#6439</styleUrl>
+                <LineString id="6437">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6700148,3.5869705,0.0 98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6442">
+                <name>FHM191S03B03-?-20</name>
+                <styleUrl>#6443</styleUrl>
+                <Point id="6441">
+                    <coordinates>98.66980243474245,3.586507519703905,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6447">
+                <name>Route ?-20 (164m)</name>
+                <styleUrl>#6448</styleUrl>
+                <LineString id="6446">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6700148,3.5869705,0.0 98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6451">
+                <name>FHM191S03B03-?-24</name>
+                <styleUrl>#6452</styleUrl>
+                <Point id="6450">
+                    <coordinates>98.66975549608469,3.586527262253259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6456">
+                <name>Route ?-24 (164m)</name>
+                <styleUrl>#6457</styleUrl>
+                <LineString id="6455">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6700148,3.5869705,0.0 98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6460">
+                <name>FHM191S03B03-?-25</name>
+                <styleUrl>#6461</styleUrl>
+                <Point id="6459">
+                    <coordinates>98.66969883441925,3.586605563207538,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6465">
+                <name>Route ?-25 (164m)</name>
+                <styleUrl>#6466</styleUrl>
+                <LineString id="6464">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6700148,3.5869705,0.0 98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6469">
+                <name>FHM191S03B03-?-26</name>
+                <styleUrl>#6470</styleUrl>
+                <Point id="6468">
+                    <coordinates>98.66969380527735,3.586579797509649,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6474">
+                <name>Route ?-26 (164m)</name>
+                <styleUrl>#6475</styleUrl>
+                <LineString id="6473">
+                    <coordinates>98.6694205,3.5869486,0.0 98.6700148,3.5869705,0.0 98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6478">
+                <name>BOUNDARY_FHM191S03B03</name>
+                <styleUrl>#6483</styleUrl>
+                <Polygon id="6477">
+                    <outerBoundaryIs>
+                        <LinearRing id="6481">
+                            <coordinates>98.669877871871,3.586480415525276,0.0 98.6701886728406,3.587620128811927,0.0 98.66876408457756,3.587511712224585,0.0 98.66869501769543,3.587476242597533,0.0 98.66881819744343,3.586866438231314,0.0 98.66980243474245,3.586507519703905,0.0 98.669877871871,3.586480415525276,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="6485">
+            <Style id="6490">
+                <IconStyle id="6491">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6492">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6495">
+                <LineStyle id="6496">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6499">
+                <IconStyle id="6500">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6501">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6504">
+                <LineStyle id="6505">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6508">
+                <IconStyle id="6509">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6510">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6513">
+                <LineStyle id="6514">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6517">
+                <IconStyle id="6518">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6519">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6522">
+                <LineStyle id="6523">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6526">
+                <IconStyle id="6527">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6528">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6531">
+                <LineStyle id="6532">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6535">
+                <IconStyle id="6536">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6537">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6540">
+                <LineStyle id="6541">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6544">
+                <IconStyle id="6545">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6546">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6549">
+                <LineStyle id="6550">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6553">
+                <IconStyle id="6554">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6555">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6558">
+                <LineStyle id="6559">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6562">
+                <IconStyle id="6563">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6564">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6567">
+                <LineStyle id="6568">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6571">
+                <IconStyle id="6572">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6573">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6576">
+                <LineStyle id="6577">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6584">
+                <PolyStyle id="6585">
+                    <color>2800ffff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S03B04</name>
+            <Placemark id="6487">
+                <name>PUSAT_FHM191S03B04</name>
+                <Point id="6486">
+                    <coordinates>98.67033306910714,3.586899528055207,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6489">
+                <name>FHM191S03B04-?-27</name>
+                <styleUrl>#6490</styleUrl>
+                <Point id="6488">
+                    <coordinates>98.6696907877922,3.586551354855294,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6494">
+                <name>Route ?-27 (81m)</name>
+                <styleUrl>#6495</styleUrl>
+                <LineString id="6493">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6498">
+                <name>FHM191S03B04-?-28</name>
+                <styleUrl>#6499</styleUrl>
+                <Point id="6497">
+                    <coordinates>98.66975247859955,3.586444276619192,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6503">
+                <name>Route ?-28 (81m)</name>
+                <styleUrl>#6504</styleUrl>
+                <LineString id="6502">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6507">
+                <name>FHM191S03B04-?-29</name>
+                <styleUrl>#6508</styleUrl>
+                <Point id="6506">
+                    <coordinates>98.66958282887936,3.586486104056659,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6512">
+                <name>Route ?-29 (81m)</name>
+                <styleUrl>#6513</styleUrl>
+                <LineString id="6511">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6699573,3.58627,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6516">
+                <name>FHM191S03B04-?-1</name>
+                <styleUrl>#6517</styleUrl>
+                <Point id="6515">
+                    <coordinates>98.67121361196041,3.587257067041346,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6521">
+                <name>Route ?-1 (138m)</name>
+                <styleUrl>#6522</styleUrl>
+                <LineString id="6520">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6525">
+                <name>FHM191S03B04-?-18</name>
+                <styleUrl>#6526</styleUrl>
+                <Point id="6524">
+                    <coordinates>98.67122568190098,3.5874022917669,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6530">
+                <name>Route ?-18 (138m)</name>
+                <styleUrl>#6531</styleUrl>
+                <LineString id="6529">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6534">
+                <name>FHM191S03B04-?-2</name>
+                <styleUrl>#6535</styleUrl>
+                <Point id="6533">
+                    <coordinates>98.67089610546827,3.586440595804595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6539">
+                <name>Route ?-2 (220m)</name>
+                <styleUrl>#6540</styleUrl>
+                <LineString id="6538">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0 98.671345,3.5862084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6543">
+                <name>FHM191S03B04-?-13</name>
+                <styleUrl>#6544</styleUrl>
+                <Point id="6542">
+                    <coordinates>98.6707355082035,3.58644829205327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6548">
+                <name>Route ?-13 (220m)</name>
+                <styleUrl>#6549</styleUrl>
+                <LineString id="6547">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0 98.671345,3.5862084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6552">
+                <name>FHM191S03B04-?-14</name>
+                <styleUrl>#6553</styleUrl>
+                <Point id="6551">
+                    <coordinates>98.67085386067629,3.586438922707047,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6557">
+                <name>Route ?-14 (220m)</name>
+                <styleUrl>#6558</styleUrl>
+                <LineString id="6556">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0 98.671345,3.5862084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6561">
+                <name>FHM191S03B04-?-15</name>
+                <styleUrl>#6562</styleUrl>
+                <Point id="6560">
+                    <coordinates>98.67093600332737,3.586453311345847,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6566">
+                <name>Route ?-15 (220m)</name>
+                <styleUrl>#6567</styleUrl>
+                <LineString id="6565">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0 98.671345,3.5862084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6570">
+                <name>FHM191S03B04-?-16</name>
+                <styleUrl>#6571</styleUrl>
+                <Point id="6569">
+                    <coordinates>98.67098797112703,3.586460338355399,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6575">
+                <name>Route ?-16 (220m)</name>
+                <styleUrl>#6576</styleUrl>
+                <LineString id="6574">
+                    <coordinates>98.6701663,3.5869713,0.0 98.6714138,3.5869457,0.0 98.671345,3.5862084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6579">
+                <name>BOUNDARY_FHM191S03B04</name>
+                <styleUrl>#6584</styleUrl>
+                <Polygon id="6578">
+                    <outerBoundaryIs>
+                        <LinearRing id="6582">
+                            <coordinates>98.6696907877922,3.586551354855294,0.0 98.66958282887936,3.586486104056659,0.0 98.66975247859955,3.586444276619192,0.0 98.67085386067629,3.586438922707047,0.0 98.67089610546827,3.586440595804595,0.0 98.67098797112703,3.586460338355399,0.0 98.67121361196041,3.587257067041346,0.0 98.67122568190098,3.5874022917669,0.0 98.6696907877922,3.586551354855294,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="6586">
+            <name>AREA_FHM191S04B05</name>
+            <Placemark id="6588">
+                <name>PUSAT_FHM191S04B05</name>
+                <Point id="6587">
+                    <coordinates>98.67133650233077,3.586895398457517,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6589">
+            <name>AREA_FHM191S04B06</name>
+            <Placemark id="6591">
+                <name>PUSAT_FHM191S04B06</name>
+                <Point id="6590">
+                    <coordinates>98.67217547356657,3.586859739714413,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6592">
+            <name>AREA_FHM191S04B07</name>
+            <Placemark id="6594">
+                <name>PUSAT_FHM191S04B07</name>
+                <Point id="6593">
+                    <coordinates>98.67093279989193,3.587036324714439,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6595">
+            <name>AREA_FHM191S01A01</name>
+            <Placemark id="6597">
+                <name>PUSAT_FHM191S01A01</name>
+                <Point id="6596">
+                    <coordinates>98.6673042497704,3.587033026670893,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6598">
+            <Style id="6603">
+                <IconStyle id="6604">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6605">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6608">
+                <LineStyle id="6609">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6612">
+                <IconStyle id="6613">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6614">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6617">
+                <LineStyle id="6618">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6621">
+                <IconStyle id="6622">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6623">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6626">
+                <LineStyle id="6627">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6630">
+                <IconStyle id="6631">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6632">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6635">
+                <LineStyle id="6636">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6639">
+                <IconStyle id="6640">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6641">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6644">
+                <LineStyle id="6645">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6648">
+                <IconStyle id="6649">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6650">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6653">
+                <LineStyle id="6654">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6657">
+                <IconStyle id="6658">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6659">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6662">
+                <LineStyle id="6663">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6666">
+                <IconStyle id="6667">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6668">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6671">
+                <LineStyle id="6672">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6675">
+                <IconStyle id="6676">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6677">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6680">
+                <LineStyle id="6681">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6684">
+                <IconStyle id="6685">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6686">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6689">
+                <LineStyle id="6690">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6693">
+                <IconStyle id="6694">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6695">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6698">
+                <LineStyle id="6699">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6702">
+                <IconStyle id="6703">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6704">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6707">
+                <LineStyle id="6708">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6711">
+                <IconStyle id="6712">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6713">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6716">
+                <LineStyle id="6717">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6720">
+                <IconStyle id="6721">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6722">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6725">
+                <LineStyle id="6726">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6729">
+                <IconStyle id="6730">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6731">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6734">
+                <LineStyle id="6735">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6738">
+                <IconStyle id="6739">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6740">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6743">
+                <LineStyle id="6744">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6747">
+                <IconStyle id="6748">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6749">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6752">
+                <LineStyle id="6753">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6756">
+                <IconStyle id="6757">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6758">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6761">
+                <LineStyle id="6762">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6765">
+                <IconStyle id="6766">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6767">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6770">
+                <LineStyle id="6771">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6774">
+                <IconStyle id="6775">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6776">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6779">
+                <LineStyle id="6780">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6787">
+                <PolyStyle id="6788">
+                    <color>28008000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S01A02</name>
+            <Placemark id="6600">
+                <name>PUSAT_FHM191S01A02</name>
+                <Point id="6599">
+                    <coordinates>98.66716910510331,3.586323018262882,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6602">
+                <name>FHM191S01A02-?-93</name>
+                <styleUrl>#6603</styleUrl>
+                <Point id="6601">
+                    <coordinates>98.66674337536097,3.585984509300379,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6607">
+                <name>Route ?-93 (0m)</name>
+                <styleUrl>#6608</styleUrl>
+                <LineString id="6606">
+                    <coordinates>98.6670709,3.5863288,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6611">
+                <name>FHM191S01A02-209B</name>
+                <styleUrl>#6612</styleUrl>
+                <Point id="6610">
+                    <coordinates>98.66739246994257,3.586302063317467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6616">
+                <name>Route 209B (8m)</name>
+                <styleUrl>#6617</styleUrl>
+                <LineString id="6615">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6620">
+                <name>FHM191S01A02-?-46</name>
+                <styleUrl>#6621</styleUrl>
+                <Point id="6619">
+                    <coordinates>98.66751216351986,3.586556708766765,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6625">
+                <name>Route ?-46 (165m)</name>
+                <styleUrl>#6626</styleUrl>
+                <LineString id="6624">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6629">
+                <name>FHM191S01A02-?-47</name>
+                <styleUrl>#6630</styleUrl>
+                <Point id="6628">
+                    <coordinates>98.6676000058651,3.586548343280073,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6634">
+                <name>Route ?-47 (165m)</name>
+                <styleUrl>#6635</styleUrl>
+                <LineString id="6633">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6638">
+                <name>FHM191S01A02-?-48</name>
+                <styleUrl>#6639</styleUrl>
+                <Point id="6637">
+                    <coordinates>98.66789571940899,3.586535962359622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6643">
+                <name>Route ?-48 (165m)</name>
+                <styleUrl>#6644</styleUrl>
+                <LineString id="6642">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6647">
+                <name>FHM191S01A02-?-49</name>
+                <styleUrl>#6648</styleUrl>
+                <Point id="6646">
+                    <coordinates>98.66775691509247,3.586535627740143,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6652">
+                <name>Route ?-49 (165m)</name>
+                <styleUrl>#6653</styleUrl>
+                <LineString id="6651">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6656">
+                <name>FHM191S01A02-?-50</name>
+                <styleUrl>#6657</styleUrl>
+                <Point id="6655">
+                    <coordinates>98.66791181266308,3.586443272760666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6661">
+                <name>Route ?-50 (165m)</name>
+                <styleUrl>#6662</styleUrl>
+                <LineString id="6660">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6665">
+                <name>FHM191S01A02-?-51</name>
+                <styleUrl>#6666</styleUrl>
+                <Point id="6664">
+                    <coordinates>98.667694889009,3.586286001578486,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6670">
+                <name>Route ?-51 (165m)</name>
+                <styleUrl>#6671</styleUrl>
+                <LineString id="6669">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6674">
+                <name>FHM191S01A02-?-52</name>
+                <styleUrl>#6675</styleUrl>
+                <Point id="6673">
+                    <coordinates>98.6675275862217,3.586312436523754,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6679">
+                <name>Route ?-52 (165m)</name>
+                <styleUrl>#6680</styleUrl>
+                <LineString id="6678">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6683">
+                <name>FHM191S01A02-209E</name>
+                <styleUrl>#6684</styleUrl>
+                <Point id="6682">
+                    <coordinates>98.66774551570415,3.586295705545815,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6688">
+                <name>Route 209E (165m)</name>
+                <styleUrl>#6689</styleUrl>
+                <LineString id="6687">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6692">
+                <name>FHM191S01A02-209F</name>
+                <styleUrl>#6693</styleUrl>
+                <Point id="6691">
+                    <coordinates>98.66773411631584,3.586457996018882,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6697">
+                <name>Route 209F (165m)</name>
+                <styleUrl>#6698</styleUrl>
+                <LineString id="6696">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6701">
+                <name>FHM191S01A02-209J</name>
+                <styleUrl>#6702</styleUrl>
+                <Point id="6700">
+                    <coordinates>98.66792690008879,3.586389399018322,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6706">
+                <name>Route 209J (165m)</name>
+                <styleUrl>#6707</styleUrl>
+                <LineString id="6705">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6675259,3.5866741,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6710">
+                <name>FHM191S01A02-?-67</name>
+                <styleUrl>#6711</styleUrl>
+                <Point id="6709">
+                    <coordinates>98.6657901853323,3.586091252970691,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6715">
+                <name>Route ?-67 (171m)</name>
+                <styleUrl>#6716</styleUrl>
+                <LineString id="6714">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6719">
+                <name>FHM191S01A02-?-68</name>
+                <styleUrl>#6720</styleUrl>
+                <Point id="6718">
+                    <coordinates>98.66578616201878,3.586028344476845,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6724">
+                <name>Route ?-68 (171m)</name>
+                <styleUrl>#6725</styleUrl>
+                <LineString id="6723">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6728">
+                <name>FHM191S01A02-?-70</name>
+                <styleUrl>#6729</styleUrl>
+                <Point id="6727">
+                    <coordinates>98.66569396108389,3.585736890706822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6733">
+                <name>Route ?-70 (171m)</name>
+                <styleUrl>#6734</styleUrl>
+                <LineString id="6732">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6737">
+                <name>FHM191S01A02-05</name>
+                <styleUrl>#6738</styleUrl>
+                <Point id="6736">
+                    <coordinates>98.66575933992863,3.585900854377623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6742">
+                <name>Route 05 (171m)</name>
+                <styleUrl>#6743</styleUrl>
+                <LineString id="6741">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6746">
+                <name>FHM191S01A02-?-71</name>
+                <styleUrl>#6747</styleUrl>
+                <Point id="6745">
+                    <coordinates>98.66568826138973,3.585682682303066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6751">
+                <name>Route ?-71 (211m)</name>
+                <styleUrl>#6752</styleUrl>
+                <LineString id="6750">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0 98.6653028,3.5862604,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6755">
+                <name>FHM191S01A02-?-57</name>
+                <styleUrl>#6756</styleUrl>
+                <Point id="6754">
+                    <coordinates>98.66524200886488,3.585866388547229,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6760">
+                <name>Route ?-57 (228m)</name>
+                <styleUrl>#6761</styleUrl>
+                <LineString id="6759">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0 98.6653028,3.5862604,0.0 98.6651552,3.5862013,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6764">
+                <name>FHM191S01A02-?-59</name>
+                <styleUrl>#6765</styleUrl>
+                <Point id="6763">
+                    <coordinates>98.66520244628191,3.585786079811157,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6769">
+                <name>Route ?-59 (228m)</name>
+                <styleUrl>#6770</styleUrl>
+                <LineString id="6768">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0 98.6653028,3.5862604,0.0 98.6651552,3.5862013,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6773">
+                <name>FHM191S01A02-?-61</name>
+                <styleUrl>#6774</styleUrl>
+                <Point id="6772">
+                    <coordinates>98.66519439965487,3.585728190592866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6778">
+                <name>Route ?-61 (228m)</name>
+                <styleUrl>#6779</styleUrl>
+                <LineString id="6777">
+                    <coordinates>98.6670709,3.5863288,0.0 98.6670857,3.5864004,0.0 98.6662226,3.5865255,0.0 98.6658226,3.5864294,0.0 98.6656382,3.586375,0.0 98.6653028,3.5862604,0.0 98.6651552,3.5862013,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6782">
+                <name>BOUNDARY_FHM191S01A02</name>
+                <styleUrl>#6787</styleUrl>
+                <Polygon id="6781">
+                    <outerBoundaryIs>
+                        <LinearRing id="6785">
+                            <coordinates>98.66519439965487,3.585728190592866,0.0 98.66568826138973,3.585682682303066,0.0 98.66674337536097,3.585984509300379,0.0 98.66774551570415,3.586295705545815,0.0 98.66792690008879,3.586389399018322,0.0 98.66789571940899,3.586535962359622,0.0 98.66751216351986,3.586556708766765,0.0 98.6657901853323,3.586091252970691,0.0 98.66524200886488,3.585866388547229,0.0 98.66520244628191,3.585786079811157,0.0 98.66519439965487,3.585728190592866,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="6789">
+            <Style id="6794">
+                <IconStyle id="6795">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6796">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6799">
+                <LineStyle id="6800">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6803">
+                <IconStyle id="6804">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6805">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6808">
+                <LineStyle id="6809">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6812">
+                <IconStyle id="6813">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6814">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6817">
+                <LineStyle id="6818">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6821">
+                <IconStyle id="6822">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6823">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6826">
+                <LineStyle id="6827">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6830">
+                <IconStyle id="6831">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6832">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6835">
+                <LineStyle id="6836">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6839">
+                <IconStyle id="6840">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6841">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6844">
+                <LineStyle id="6845">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6848">
+                <IconStyle id="6849">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6850">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6853">
+                <LineStyle id="6854">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6857">
+                <IconStyle id="6858">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6859">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6862">
+                <LineStyle id="6863">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6866">
+                <IconStyle id="6867">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6868">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6871">
+                <LineStyle id="6872">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6875">
+                <IconStyle id="6876">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6877">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6880">
+                <LineStyle id="6881">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6884">
+                <IconStyle id="6885">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6886">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6889">
+                <LineStyle id="6890">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6893">
+                <IconStyle id="6894">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6895">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6898">
+                <LineStyle id="6899">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6902">
+                <IconStyle id="6903">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6904">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6907">
+                <LineStyle id="6908">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6911">
+                <IconStyle id="6912">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6913">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6916">
+                <LineStyle id="6917">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6920">
+                <IconStyle id="6921">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6922">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6925">
+                <LineStyle id="6926">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6933">
+                <PolyStyle id="6934">
+                    <color>2800ffff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S01A03</name>
+            <Placemark id="6791">
+                <name>PUSAT_FHM191S01A03</name>
+                <Point id="6790">
+                    <coordinates>98.66705088392885,3.585398912712709,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6793">
+                <name>FHM191S01A03-?-53</name>
+                <styleUrl>#6794</styleUrl>
+                <Point id="6792">
+                    <coordinates>98.66721142083406,3.585548834378799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6798">
+                <name>Route ?-53 (0m)</name>
+                <styleUrl>#6799</styleUrl>
+                <LineString id="6797">
+                    <coordinates>98.6669931,3.5854414,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6802">
+                <name>FHM191S01A03-?-54</name>
+                <styleUrl>#6803</styleUrl>
+                <Point id="6801">
+                    <coordinates>98.66719096899033,3.585442090645157,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6807">
+                <name>Route ?-54 (0m)</name>
+                <styleUrl>#6808</styleUrl>
+                <LineString id="6806">
+                    <coordinates>98.6669931,3.5854414,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6811">
+                <name>FHM191S01A03-215G</name>
+                <styleUrl>#6812</styleUrl>
+                <Point id="6810">
+                    <coordinates>98.66730697453022,3.585577277064349,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6816">
+                <name>Route 215G (0m)</name>
+                <styleUrl>#6817</styleUrl>
+                <LineString id="6815">
+                    <coordinates>98.6669931,3.5854414,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6820">
+                <name>FHM191S01A03-215H</name>
+                <styleUrl>#6821</styleUrl>
+                <Point id="6819">
+                    <coordinates>98.66732977330685,3.585576942444527,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6825">
+                <name>Route 215H (0m)</name>
+                <styleUrl>#6826</styleUrl>
+                <LineString id="6824">
+                    <coordinates>98.6669931,3.5854414,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6829">
+                <name>FHM191S01A03-?-90</name>
+                <styleUrl>#6830</styleUrl>
+                <Point id="6828">
+                    <coordinates>98.6673666536808,3.585100778309765,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6834">
+                <name>Route ?-90 (76m)</name>
+                <styleUrl>#6835</styleUrl>
+                <LineString id="6833">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6838">
+                <name>FHM191S01A03-215I</name>
+                <styleUrl>#6839</styleUrl>
+                <Point id="6837">
+                    <coordinates>98.66735726594925,3.58557593858506,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6843">
+                <name>Route 215I (76m)</name>
+                <styleUrl>#6844</styleUrl>
+                <LineString id="6842">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6847">
+                <name>FHM191S01A03-215J</name>
+                <styleUrl>#6848</styleUrl>
+                <Point id="6846">
+                    <coordinates>98.66739112883806,3.585575269345403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6852">
+                <name>Route 215J (76m)</name>
+                <styleUrl>#6853</styleUrl>
+                <LineString id="6851">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6856">
+                <name>FHM191S01A03-215K</name>
+                <styleUrl>#6857</styleUrl>
+                <Point id="6855">
+                    <coordinates>98.66742700338364,3.585574600105745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6861">
+                <name>Route 215K (76m)</name>
+                <styleUrl>#6862</styleUrl>
+                <LineString id="6860">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6865">
+                <name>FHM191S01A03-215L</name>
+                <styleUrl>#6866</styleUrl>
+                <Point id="6864">
+                    <coordinates>98.66748098284006,3.585569246188524,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6870">
+                <name>Route 215L (76m)</name>
+                <styleUrl>#6871</styleUrl>
+                <LineString id="6869">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6874">
+                <name>FHM191S01A03-215M</name>
+                <styleUrl>#6875</styleUrl>
+                <Point id="6873">
+                    <coordinates>98.66751316934824,3.585570919287661,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6879">
+                <name>Route 215M (76m)</name>
+                <styleUrl>#6880</styleUrl>
+                <LineString id="6878">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6883">
+                <name>FHM191S01A03-215N</name>
+                <styleUrl>#6884</styleUrl>
+                <Point id="6882">
+                    <coordinates>98.66755306720734,3.585563892271264,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6888">
+                <name>Route 215N (76m)</name>
+                <styleUrl>#6889</styleUrl>
+                <LineString id="6887">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6892">
+                <name>FHM191S01A03-215O</name>
+                <styleUrl>#6893</styleUrl>
+                <Point id="6891">
+                    <coordinates>98.66758491843939,3.585564896130757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6897">
+                <name>Route 215O (76m)</name>
+                <styleUrl>#6898</styleUrl>
+                <LineString id="6896">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6901">
+                <name>FHM191S01A03-215P</name>
+                <styleUrl>#6902</styleUrl>
+                <Point id="6900">
+                    <coordinates>98.66761442273855,3.585566234610071,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6906">
+                <name>Route 215P (76m)</name>
+                <styleUrl>#6907</styleUrl>
+                <LineString id="6905">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6910">
+                <name>FHM191S01A03-215Q</name>
+                <styleUrl>#6911</styleUrl>
+                <Point id="6909">
+                    <coordinates>98.66765197366476,3.585567907709221,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6915">
+                <name>Route 215Q (76m)</name>
+                <styleUrl>#6916</styleUrl>
+                <LineString id="6914">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6919">
+                <name>FHM191S01A03-215R</name>
+                <styleUrl>#6920</styleUrl>
+                <Point id="6918">
+                    <coordinates>98.66771131753922,3.585570919287661,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6924">
+                <name>Route 215R (76m)</name>
+                <styleUrl>#6925</styleUrl>
+                <LineString id="6923">
+                    <coordinates>98.6669931,3.5854414,0.0 98.6676804,3.5854341,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6928">
+                <name>BOUNDARY_FHM191S01A03</name>
+                <styleUrl>#6933</styleUrl>
+                <Polygon id="6927">
+                    <outerBoundaryIs>
+                        <LinearRing id="6931">
+                            <coordinates>98.66705088392885,3.585398912712709,0.0 98.6673666536808,3.585100778309765,0.0 98.66771131753922,3.585570919287661,0.0 98.66732977330685,3.585576942444527,0.0 98.66730697453022,3.585577277064349,0.0 98.66721142083406,3.585548834378799,0.0 98.66705088392885,3.585398912712709,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="6935">
+            <name>AREA_FHM191S05C01</name>
+            <Placemark id="6937">
+                <name>PUSAT_FHM191S05C01</name>
+                <Point id="6936">
+                    <coordinates>98.66686028763274,3.584641466735375,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6938">
+            <name>AREA_FHM191S05C02</name>
+            <Placemark id="6940">
+                <name>PUSAT_FHM191S05C02</name>
+                <Point id="6939">
+                    <coordinates>98.66646773300782,3.584300869922613,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6941">
+            <Style id="6946">
+                <IconStyle id="6947">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6948">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6951">
+                <LineStyle id="6952">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6955">
+                <IconStyle id="6956">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6957">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6960">
+                <LineStyle id="6961">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6964">
+                <IconStyle id="6965">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6966">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6969">
+                <LineStyle id="6970">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6973">
+                <IconStyle id="6974">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6975">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6978">
+                <LineStyle id="6979">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6982">
+                <IconStyle id="6983">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6984">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6987">
+                <LineStyle id="6988">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="6991">
+                <IconStyle id="6992">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6993">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="6996">
+                <LineStyle id="6997">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7000">
+                <IconStyle id="7001">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7002">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7005">
+                <LineStyle id="7006">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7009">
+                <IconStyle id="7010">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7011">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7014">
+                <LineStyle id="7015">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7018">
+                <IconStyle id="7019">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7020">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7023">
+                <LineStyle id="7024">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7027">
+                <IconStyle id="7028">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7029">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7032">
+                <LineStyle id="7033">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7036">
+                <IconStyle id="7037">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7038">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7041">
+                <LineStyle id="7042">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7045">
+                <IconStyle id="7046">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7047">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7050">
+                <LineStyle id="7051">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7054">
+                <IconStyle id="7055">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7056">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7059">
+                <LineStyle id="7060">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7063">
+                <IconStyle id="7064">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7065">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7068">
+                <LineStyle id="7069">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7072">
+                <IconStyle id="7073">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7074">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7077">
+                <LineStyle id="7078">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7081">
+                <IconStyle id="7082">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7083">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7086">
+                <LineStyle id="7087">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7090">
+                <IconStyle id="7091">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7092">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7095">
+                <LineStyle id="7096">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7099">
+                <IconStyle id="7100">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7101">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7104">
+                <LineStyle id="7105">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7108">
+                <IconStyle id="7109">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7110">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7113">
+                <LineStyle id="7114">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7117">
+                <IconStyle id="7118">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7119">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7122">
+                <LineStyle id="7123">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7130">
+                <PolyStyle id="7131">
+                    <color>280000ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S05C03</name>
+            <Placemark id="6943">
+                <name>PUSAT_FHM191S05C03</name>
+                <Point id="6942">
+                    <coordinates>98.66606973511806,3.584516384467245,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6945">
+                <name>FHM191S05C03-?-73</name>
+                <styleUrl>#6946</styleUrl>
+                <Point id="6944">
+                    <coordinates>98.6656741797924,3.585634162432779,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6950">
+                <name>Route ?-73 (136m)</name>
+                <styleUrl>#6951</styleUrl>
+                <LineString id="6949">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6954">
+                <name>FHM191S05C03-?-74</name>
+                <styleUrl>#6955</styleUrl>
+                <Point id="6953">
+                    <coordinates>98.66571675986052,3.585437405966919,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6959">
+                <name>Route ?-74 (136m)</name>
+                <styleUrl>#6960</styleUrl>
+                <LineString id="6958">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6963">
+                <name>FHM191S05C03-?-75</name>
+                <styleUrl>#6964</styleUrl>
+                <Point id="6962">
+                    <coordinates>98.66570267826319,3.585199156584207,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6968">
+                <name>Route ?-75 (136m)</name>
+                <styleUrl>#6969</styleUrl>
+                <LineString id="6967">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6972">
+                <name>FHM191S05C03-?-76</name>
+                <styleUrl>#6973</styleUrl>
+                <Point id="6971">
+                    <coordinates>98.66570267826319,3.585142605808693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6977">
+                <name>Route ?-76 (136m)</name>
+                <styleUrl>#6978</styleUrl>
+                <LineString id="6976">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6981">
+                <name>FHM191S05C03-?-77</name>
+                <styleUrl>#6982</styleUrl>
+                <Point id="6980">
+                    <coordinates>98.66567350924015,3.585114163109631,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6986">
+                <name>Route ?-77 (136m)</name>
+                <styleUrl>#6987</styleUrl>
+                <LineString id="6985">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6990">
+                <name>FHM191S05C03-?-78</name>
+                <styleUrl>#6991</styleUrl>
+                <Point id="6989">
+                    <coordinates>98.66537980735302,3.585239310978909,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6995">
+                <name>Route ?-78 (136m)</name>
+                <styleUrl>#6996</styleUrl>
+                <LineString id="6994">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6999">
+                <name>FHM191S05C03-?-79</name>
+                <styleUrl>#7000</styleUrl>
+                <Point id="6998">
+                    <coordinates>98.66565775126219,3.584812335825037,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7004">
+                <name>Route ?-79 (136m)</name>
+                <styleUrl>#7005</styleUrl>
+                <LineString id="7003">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7008">
+                <name>FHM191S05C03-?-81</name>
+                <styleUrl>#7009</styleUrl>
+                <Point id="7007">
+                    <coordinates>98.66562254726887,3.585018127166248,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7013">
+                <name>Route ?-81 (136m)</name>
+                <styleUrl>#7014</styleUrl>
+                <LineString id="7012">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7017">
+                <name>FHM191S05C03-?-82</name>
+                <styleUrl>#7018</styleUrl>
+                <Point id="7016">
+                    <coordinates>98.66560008376837,3.585023146466676,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7022">
+                <name>Route ?-82 (136m)</name>
+                <styleUrl>#7023</styleUrl>
+                <LineString id="7021">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7026">
+                <name>FHM191S05C03-?-83</name>
+                <styleUrl>#7027</styleUrl>
+                <Point id="7025">
+                    <coordinates>98.66557862609625,3.585027496527013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7031">
+                <name>Route ?-83 (136m)</name>
+                <styleUrl>#7032</styleUrl>
+                <LineString id="7030">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7035">
+                <name>FHM191S05C03-?-84</name>
+                <styleUrl>#7036</styleUrl>
+                <Point id="7034">
+                    <coordinates>98.66538181900978,3.585049916068483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7040">
+                <name>Route ?-84 (136m)</name>
+                <styleUrl>#7041</styleUrl>
+                <LineString id="7039">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7044">
+                <name>FHM191S05C03-9B</name>
+                <styleUrl>#7045</styleUrl>
+                <Point id="7043">
+                    <coordinates>98.66562824696302,3.585360108772303,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7049">
+                <name>Route 9B (136m)</name>
+                <styleUrl>#7050</styleUrl>
+                <LineString id="7048">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7053">
+                <name>FHM191S05C03-05</name>
+                <styleUrl>#7054</styleUrl>
+                <Point id="7052">
+                    <coordinates>98.66568893194199,3.585009761665486,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7058">
+                <name>Route 05 (136m)</name>
+                <styleUrl>#7059</styleUrl>
+                <LineString id="7057">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7062">
+                <name>FHM191S05C03-06</name>
+                <styleUrl>#7063</styleUrl>
+                <Point id="7061">
+                    <coordinates>98.66565305739641,3.585011769385667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7067">
+                <name>Route 06 (136m)</name>
+                <styleUrl>#7068</styleUrl>
+                <LineString id="7066">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7071">
+                <name>FHM191S05C03-09</name>
+                <styleUrl>#7072</styleUrl>
+                <Point id="7070">
+                    <coordinates>98.6656815558672,3.585556196015159,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7076">
+                <name>Route 09 (136m)</name>
+                <styleUrl>#7077</styleUrl>
+                <LineString id="7075">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7080">
+                <name>FHM191S05C03-10</name>
+                <styleUrl>#7081</styleUrl>
+                <Point id="7079">
+                    <coordinates>98.66543613374233,3.58543774058678,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7085">
+                <name>Route 10 (136m)</name>
+                <styleUrl>#7086</styleUrl>
+                <LineString id="7084">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7089">
+                <name>FHM191S05C03-20</name>
+                <styleUrl>#7090</styleUrl>
+                <Point id="7088">
+                    <coordinates>98.66558466106653,3.584800958741407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7094">
+                <name>Route 20 (136m)</name>
+                <styleUrl>#7095</styleUrl>
+                <LineString id="7093">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7098">
+                <name>FHM191S05C03-?-3</name>
+                <styleUrl>#7099</styleUrl>
+                <Point id="7097">
+                    <coordinates>98.66512969136238,3.585055939228784,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7103">
+                <name>Route ?-3 (187m)</name>
+                <styleUrl>#7104</styleUrl>
+                <LineString id="7102">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7107">
+                <name>FHM191S05C03-?-4</name>
+                <styleUrl>#7108</styleUrl>
+                <Point id="7106">
+                    <coordinates>98.66493824869394,3.585096093629758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7112">
+                <name>Route ?-4 (187m)</name>
+                <styleUrl>#7113</styleUrl>
+                <LineString id="7111">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7116">
+                <name>FHM191S05C03-?-5</name>
+                <styleUrl>#7117</styleUrl>
+                <Point id="7115">
+                    <coordinates>98.66490572690964,3.585094755149769,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7121">
+                <name>Route ?-5 (187m)</name>
+                <styleUrl>#7122</styleUrl>
+                <LineString id="7120">
+                    <coordinates>98.6661006,3.5842548,0.0 98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7125">
+                <name>BOUNDARY_FHM191S05C03</name>
+                <styleUrl>#7130</styleUrl>
+                <Polygon id="7124">
+                    <outerBoundaryIs>
+                        <LinearRing id="7128">
+                            <coordinates>98.66490572690964,3.585094755149769,0.0 98.66606973511806,3.584516384467245,0.0 98.6656741797924,3.585634162432779,0.0 98.66490572690964,3.585094755149769,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="7132">
+            <Style id="7137">
+                <IconStyle id="7138">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7139">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7142">
+                <LineStyle id="7143">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7146">
+                <IconStyle id="7147">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7148">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7151">
+                <LineStyle id="7152">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7155">
+                <IconStyle id="7156">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7157">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7160">
+                <LineStyle id="7161">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7164">
+                <IconStyle id="7165">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7166">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7169">
+                <LineStyle id="7170">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7173">
+                <IconStyle id="7174">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7175">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7178">
+                <LineStyle id="7179">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7182">
+                <IconStyle id="7183">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7184">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7187">
+                <LineStyle id="7188">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7191">
+                <IconStyle id="7192">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7193">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7196">
+                <LineStyle id="7197">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7200">
+                <IconStyle id="7201">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7202">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7205">
+                <LineStyle id="7206">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7209">
+                <IconStyle id="7210">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7211">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7214">
+                <LineStyle id="7215">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7218">
+                <IconStyle id="7219">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7220">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7223">
+                <LineStyle id="7224">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7227">
+                <IconStyle id="7228">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7229">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7232">
+                <LineStyle id="7233">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7236">
+                <IconStyle id="7237">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7238">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7241">
+                <LineStyle id="7242">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7245">
+                <IconStyle id="7246">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7247">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7250">
+                <LineStyle id="7251">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7254">
+                <IconStyle id="7255">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7256">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7259">
+                <LineStyle id="7260">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7263">
+                <IconStyle id="7264">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7265">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7268">
+                <LineStyle id="7269">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7272">
+                <IconStyle id="7273">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7274">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7277">
+                <LineStyle id="7278">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7281">
+                <IconStyle id="7282">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7283">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7286">
+                <LineStyle id="7287">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7290">
+                <IconStyle id="7291">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7292">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7295">
+                <LineStyle id="7296">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7299">
+                <IconStyle id="7300">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7301">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7304">
+                <LineStyle id="7305">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7308">
+                <IconStyle id="7309">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7310">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7313">
+                <LineStyle id="7314">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7321">
+                <PolyStyle id="7322">
+                    <color>28ff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S05C04</name>
+            <Placemark id="7134">
+                <name>PUSAT_FHM191S05C04</name>
+                <Point id="7133">
+                    <coordinates>98.66609106683893,3.585602839240145,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7136">
+                <name>FHM191S05C04-?-55</name>
+                <styleUrl>#7137</styleUrl>
+                <Point id="7135">
+                    <coordinates>98.66496473550797,3.585316273563804,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7141">
+                <name>Route ?-55 (117m)</name>
+                <styleUrl>#7142</styleUrl>
+                <LineString id="7140">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7145">
+                <name>FHM191S05C04-?-56</name>
+                <styleUrl>#7146</styleUrl>
+                <Point id="7144">
+                    <coordinates>98.66519037634134,3.585428036610341,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7150">
+                <name>Route ?-56 (117m)</name>
+                <styleUrl>#7151</styleUrl>
+                <LineString id="7149">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7154">
+                <name>FHM191S05C04-?-58</name>
+                <styleUrl>#7155</styleUrl>
+                <Point id="7153">
+                    <coordinates>98.66499625146389,3.585410970996333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7159">
+                <name>Route ?-58 (117m)</name>
+                <styleUrl>#7160</styleUrl>
+                <LineString id="7158">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7163">
+                <name>FHM191S05C04-?-60</name>
+                <styleUrl>#7164</styleUrl>
+                <Point id="7162">
+                    <coordinates>98.66518467664719,3.585277792272171,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7168">
+                <name>Route ?-60 (117m)</name>
+                <styleUrl>#7169</styleUrl>
+                <LineString id="7167">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7172">
+                <name>FHM191S05C04-?-65</name>
+                <styleUrl>#7173</styleUrl>
+                <Point id="7171">
+                    <coordinates>98.66497445851564,3.585353750994113,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7177">
+                <name>Route ?-65 (117m)</name>
+                <styleUrl>#7178</styleUrl>
+                <LineString id="7176">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7181">
+                <name>FHM191S05C04-?-80</name>
+                <styleUrl>#7182</styleUrl>
+                <Point id="7180">
+                    <coordinates>98.66521619260311,3.585537122684508,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7186">
+                <name>Route ?-80 (117m)</name>
+                <styleUrl>#7187</styleUrl>
+                <LineString id="7185">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7190">
+                <name>FHM191S05C04-?-85</name>
+                <styleUrl>#7191</styleUrl>
+                <Point id="7189">
+                    <coordinates>98.66518568247557,3.585318615903248,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7195">
+                <name>Route ?-85 (117m)</name>
+                <styleUrl>#7196</styleUrl>
+                <LineString id="7194">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7199">
+                <name>FHM191S05C04-?-86</name>
+                <styleUrl>#7200</styleUrl>
+                <Point id="7198">
+                    <coordinates>98.66518668830395,3.585358770292696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7204">
+                <name>Route ?-86 (117m)</name>
+                <styleUrl>#7205</styleUrl>
+                <LineString id="7203">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7208">
+                <name>FHM191S05C04-?-87</name>
+                <styleUrl>#7209</styleUrl>
+                <Point id="7207">
+                    <coordinates>98.66521317511797,3.585514368535136,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7213">
+                <name>Route ?-87 (117m)</name>
+                <styleUrl>#7214</styleUrl>
+                <LineString id="7212">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7217">
+                <name>FHM191S05C04-?-88</name>
+                <styleUrl>#7218</styleUrl>
+                <Point id="7216">
+                    <coordinates>98.66520680487156,3.585495295203619,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7222">
+                <name>Route ?-88 (117m)</name>
+                <styleUrl>#7223</styleUrl>
+                <LineString id="7221">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7226">
+                <name>FHM191S05C04-8AA</name>
+                <styleUrl>#7227</styleUrl>
+                <Point id="7225">
+                    <coordinates>98.66517327725887,3.58513725188894,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7231">
+                <name>Route 8AA (117m)</name>
+                <styleUrl>#7232</styleUrl>
+                <LineString id="7230">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7235">
+                <name>FHM191S05C04-8BB</name>
+                <styleUrl>#7236</styleUrl>
+                <Point id="7234">
+                    <coordinates>98.66517629474401,3.585178744766239,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7240">
+                <name>Route 8BB (117m)</name>
+                <styleUrl>#7241</styleUrl>
+                <LineString id="7239">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7244">
+                <name>FHM191S05C04-8CC</name>
+                <styleUrl>#7245</styleUrl>
+                <Point id="7243">
+                    <coordinates>98.66517763584852,3.585223583841189,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7249">
+                <name>Route 8CC (117m)</name>
+                <styleUrl>#7250</styleUrl>
+                <LineString id="7248">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7253">
+                <name>FHM191S05C04-8GG</name>
+                <styleUrl>#7254</styleUrl>
+                <Point id="7252">
+                    <coordinates>98.66518903523684,3.585398924680375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7258">
+                <name>Route 8GG (117m)</name>
+                <styleUrl>#7259</styleUrl>
+                <LineString id="7257">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7262">
+                <name>FHM191S05C04-8II</name>
+                <styleUrl>#7263</styleUrl>
+                <Point id="7261">
+                    <coordinates>98.66520076990128,3.585463840936728,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7267">
+                <name>Route 8II (117m)</name>
+                <styleUrl>#7268</styleUrl>
+                <LineString id="7266">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7271">
+                <name>FHM191S05C04-2A</name>
+                <styleUrl>#7272</styleUrl>
+                <Point id="7270">
+                    <coordinates>98.66498786956072,3.585527084089263,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7276">
+                <name>Route 2A (117m)</name>
+                <styleUrl>#7277</styleUrl>
+                <LineString id="7275">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7280">
+                <name>FHM191S05C04-2C</name>
+                <styleUrl>#7281</styleUrl>
+                <Point id="7279">
+                    <coordinates>98.66498954594135,3.585085385789679,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7285">
+                <name>Route 2C (117m)</name>
+                <styleUrl>#7286</styleUrl>
+                <LineString id="7284">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7289">
+                <name>FHM191S05C04-04</name>
+                <styleUrl>#7290</styleUrl>
+                <Point id="7288">
+                    <coordinates>98.66484604775906,3.585098435969761,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7294">
+                <name>Route 04 (117m)</name>
+                <styleUrl>#7295</styleUrl>
+                <LineString id="7293">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7298">
+                <name>FHM191S05C04-?-6</name>
+                <styleUrl>#7299</styleUrl>
+                <Point id="7297">
+                    <coordinates>98.66417113691568,3.585084716549665,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7303">
+                <name>Route ?-6 (187m)</name>
+                <styleUrl>#7304</styleUrl>
+                <LineString id="7302">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0 98.664425,3.5850165,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7307">
+                <name>FHM191S05C04-?-7</name>
+                <styleUrl>#7308</styleUrl>
+                <Point id="7306">
+                    <coordinates>98.66418655961752,3.585158332947799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7312">
+                <name>Route ?-7 (187m)</name>
+                <styleUrl>#7313</styleUrl>
+                <LineString id="7311">
+                    <coordinates>98.6661122,3.5848858,0.0 98.6655152,3.5849373,0.0 98.6650585,3.584969,0.0 98.664425,3.5850165,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7316">
+                <name>BOUNDARY_FHM191S05C04</name>
+                <styleUrl>#7321</styleUrl>
+                <Polygon id="7315">
+                    <outerBoundaryIs>
+                        <LinearRing id="7319">
+                            <coordinates>98.66417113691568,3.585084716549665,0.0 98.66498954594135,3.585085385789679,0.0 98.66517327725887,3.58513725188894,0.0 98.66609106683893,3.585602839240145,0.0 98.66498786956072,3.585527084089263,0.0 98.66418655961752,3.585158332947799,0.0 98.66417113691568,3.585084716549665,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="7323">
+            <name>AREA_FHM191S06C05</name>
+            <Placemark id="7325">
+                <name>PUSAT_FHM191S06C05</name>
+                <Point id="7324">
+                    <coordinates>98.66537768511623,3.584404256739871,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="7326">
+            <Style id="7331">
+                <IconStyle id="7332">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7333">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7336">
+                <LineStyle id="7337">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7340">
+                <IconStyle id="7341">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7342">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7345">
+                <LineStyle id="7346">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7349">
+                <IconStyle id="7350">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7351">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7354">
+                <LineStyle id="7355">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7358">
+                <IconStyle id="7359">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7360">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7363">
+                <LineStyle id="7364">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7367">
+                <IconStyle id="7368">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7369">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7372">
+                <LineStyle id="7373">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7376">
+                <IconStyle id="7377">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7378">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7381">
+                <LineStyle id="7382">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7385">
+                <IconStyle id="7386">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7387">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7390">
+                <LineStyle id="7391">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7394">
+                <IconStyle id="7395">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7396">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7399">
+                <LineStyle id="7400">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7403">
+                <IconStyle id="7404">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7405">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7408">
+                <LineStyle id="7409">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7412">
+                <IconStyle id="7413">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7414">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7417">
+                <LineStyle id="7418">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7421">
+                <IconStyle id="7422">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7423">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7426">
+                <LineStyle id="7427">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7430">
+                <IconStyle id="7431">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7432">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7435">
+                <LineStyle id="7436">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7439">
+                <IconStyle id="7440">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7441">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7444">
+                <LineStyle id="7445">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7448">
+                <IconStyle id="7449">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7450">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7453">
+                <LineStyle id="7454">
+                    <color>ff00ffff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="7461">
+                <PolyStyle id="7462">
+                    <color>2800ffff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>AREA_FHM191S06C06</name>
+            <Placemark id="7328">
+                <name>PUSAT_FHM191S06C06</name>
+                <Point id="7327">
+                    <coordinates>98.66363687861684,3.584535432199382,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7330">
+                <name>FHM191S06C06-?-12</name>
+                <styleUrl>#7331</styleUrl>
+                <Point id="7329">
+                    <coordinates>98.66372790187597,3.584824716768821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7335">
+                <name>Route ?-12 (70m)</name>
+                <styleUrl>#7336</styleUrl>
+                <LineString id="7334">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7339">
+                <name>FHM191S06C06-?-91</name>
+                <styleUrl>#7340</styleUrl>
+                <Point id="7338">
+                    <coordinates>98.6638418957591,3.585097097489759,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7344">
+                <name>Route ?-91 (70m)</name>
+                <styleUrl>#7345</styleUrl>
+                <LineString id="7343">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7348">
+                <name>FHM191S06C06-31B</name>
+                <styleUrl>#7349</styleUrl>
+                <Point id="7347">
+                    <coordinates>98.66400215774775,3.584868217380817,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7353">
+                <name>Route 31B (70m)</name>
+                <styleUrl>#7354</styleUrl>
+                <LineString id="7352">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7357">
+                <name>FHM191S06C06-31C</name>
+                <styleUrl>#7358</styleUrl>
+                <Point id="7356">
+                    <coordinates>98.66395890712738,3.584883609904554,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7362">
+                <name>Route 31C (70m)</name>
+                <styleUrl>#7363</styleUrl>
+                <LineString id="7361">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7366">
+                <name>FHM191S06C06-?-10</name>
+                <styleUrl>#7367</styleUrl>
+                <Point id="7365">
+                    <coordinates>98.6638781055808,3.585540803502719,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7371">
+                <name>Route ?-10 (137m)</name>
+                <styleUrl>#7372</styleUrl>
+                <LineString id="7370">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7375">
+                <name>FHM191S06C06-?-11</name>
+                <styleUrl>#7376</styleUrl>
+                <Point id="7374">
+                    <coordinates>98.66376679390669,3.585509349237406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7380">
+                <name>Route ?-11 (137m)</name>
+                <styleUrl>#7381</styleUrl>
+                <LineString id="7379">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7384">
+                <name>FHM191S06C06-21B</name>
+                <styleUrl>#7385</styleUrl>
+                <Point id="7383">
+                    <coordinates>98.6639528721571,3.58552942642816,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7389">
+                <name>Route 21B (137m)</name>
+                <styleUrl>#7390</styleUrl>
+                <LineString id="7388">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7393">
+                <name>FHM191S06C06-31A</name>
+                <styleUrl>#7394</styleUrl>
+                <Point id="7392">
+                    <coordinates>98.6640340089798,3.584864201939793,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7398">
+                <name>Route 31A (156m)</name>
+                <styleUrl>#7399</styleUrl>
+                <LineString id="7397">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.664425,3.5850165,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7402">
+                <name>FHM191S06C06-04</name>
+                <styleUrl>#7403</styleUrl>
+                <Point id="7401">
+                    <coordinates>98.66421975195408,3.585290842449505,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7407">
+                <name>Route 04 (156m)</name>
+                <styleUrl>#7408</styleUrl>
+                <LineString id="7406">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.664425,3.5850165,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7411">
+                <name>FHM191S06C06-05</name>
+                <styleUrl>#7412</styleUrl>
+                <Point id="7410">
+                    <coordinates>98.66462141275406,3.585332335319832,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7416">
+                <name>Route 05 (156m)</name>
+                <styleUrl>#7417</styleUrl>
+                <LineString id="7415">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.664425,3.5850165,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7420">
+                <name>FHM191S06C06-?-9</name>
+                <styleUrl>#7421</styleUrl>
+                <Point id="7419">
+                    <coordinates>98.66423852741718,3.585445771463776,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7425">
+                <name>Route ?-9 (188m)</name>
+                <styleUrl>#7426</styleUrl>
+                <LineString id="7424">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0 98.6641057,3.5858225,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7429">
+                <name>FHM191S06C06-?-89</name>
+                <styleUrl>#7430</styleUrl>
+                <Point id="7428">
+                    <coordinates>98.66407591849566,3.585557869114309,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7434">
+                <name>Route ?-89 (188m)</name>
+                <styleUrl>#7435</styleUrl>
+                <LineString id="7433">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0 98.6641057,3.5858225,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7438">
+                <name>FHM191S06C06-21A</name>
+                <styleUrl>#7439</styleUrl>
+                <Point id="7437">
+                    <coordinates>98.66401121020317,3.585550507477988,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7443">
+                <name>Route 21A (188m)</name>
+                <styleUrl>#7444</styleUrl>
+                <LineString id="7442">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0 98.6641057,3.5858225,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7447">
+                <name>FHM191S06C06-?-8</name>
+                <styleUrl>#7448</styleUrl>
+                <Point id="7446">
+                    <coordinates>98.66460900753736,3.585535449585294,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7452">
+                <name>Route ?-8 (236m)</name>
+                <styleUrl>#7453</styleUrl>
+                <LineString id="7451">
+                    <coordinates>98.6636156,3.5844235,0.0 98.6636482,3.5850553,0.0 98.6636714,3.5856562,0.0 98.6641057,3.5858225,0.0 98.6645122,3.5859605,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7456">
+                <name>BOUNDARY_FHM191S06C06</name>
+                <styleUrl>#7461</styleUrl>
+                <Polygon id="7455">
+                    <outerBoundaryIs>
+                        <LinearRing id="7459">
+                            <coordinates>98.66363687861684,3.584535432199382,0.0 98.66462141275406,3.585332335319832,0.0 98.66460900753736,3.585535449585294,0.0 98.66407591849566,3.585557869114309,0.0 98.6638781055808,3.585540803502719,0.0 98.66376679390669,3.585509349237406,0.0 98.66363687861684,3.584535432199382,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Folder id="7463">
+            <Style id="7466">
+                <IconStyle id="7467">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7468">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7471">
+                <IconStyle id="7472">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7473">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7476">
+                <IconStyle id="7477">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7478">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7481">
+                <IconStyle id="7482">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7483">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7486">
+                <IconStyle id="7487">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7488">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7491">
+                <IconStyle id="7492">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7493">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7496">
+                <IconStyle id="7497">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7498">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7501">
+                <IconStyle id="7502">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7503">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="7506">
+                <IconStyle id="7507">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7508">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>❌ TIDAK_TERCOVER</name>
+            <Placemark id="7465">
+                <name>UNCOVERED_?-62</name>
+                <styleUrl>#7466</styleUrl>
+                <Point id="7464">
+                    <coordinates>98.66519473493099,3.58569774019333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7470">
+                <name>UNCOVERED_?-63</name>
+                <styleUrl>#7471</styleUrl>
+                <Point id="7469">
+                    <coordinates>98.66500798612833,3.585748267778798,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7475">
+                <name>UNCOVERED_?-64</name>
+                <styleUrl>#7476</styleUrl>
+                <Point id="7474">
+                    <coordinates>98.66500966250896,3.585769683443334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7480">
+                <name>UNCOVERED_?-66</name>
+                <styleUrl>#7481</styleUrl>
+                <Point id="7479">
+                    <coordinates>98.66500329226255,3.585687032360286,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7485">
+                <name>UNCOVERED_?-69</name>
+                <styleUrl>#7486</styleUrl>
+                <Point id="7484">
+                    <coordinates>98.66499960422516,3.585646543365456,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7490">
+                <name>UNCOVERED_?-72</name>
+                <styleUrl>#7491</styleUrl>
+                <Point id="7489">
+                    <coordinates>98.66521116346121,3.585595346534707,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7495">
+                <name>UNCOVERED_2C</name>
+                <styleUrl>#7496</styleUrl>
+                <Point id="7494">
+                    <coordinates>98.66500429809093,3.585719155859048,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7500">
+                <name>UNCOVERED_08</name>
+                <styleUrl>#7501</styleUrl>
+                <Point id="7499">
+                    <coordinates>98.66541903465986,3.585728190592866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7505">
+                <name>UNCOVERED_15</name>
+                <styleUrl>#7506</styleUrl>
+                <Point id="7504">
+                    <coordinates>98.66502843797207,3.58587174246272,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
