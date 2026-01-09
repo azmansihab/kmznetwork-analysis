@@ -1,0 +1,7 @@
+streamlit
+geopandas
+osmnx
+networkx
+simplekml
+scipy
+fiona
