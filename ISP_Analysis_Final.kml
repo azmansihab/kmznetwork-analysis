@@ -89,7 +89,7 @@
             </Placemark>
             <Placemark id="6">
                 <name>?-70</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="5">
                     <coordinates>109.1245452314615,-6.966083442666096,0.0</coordinates>
@@ -104,7 +104,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="12">
                 <name>?-71</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="11">
                     <coordinates>109.1239286586642,-6.965845156976144,0.0</coordinates>
@@ -119,7 +119,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="18">
                 <name>?-72</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="17">
                     <coordinates>109.1239098832011,-6.966045836133688,0.0</coordinates>
@@ -134,7 +134,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="24">
                 <name>No 7</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="23">
                     <coordinates>109.1245693713427,-6.965972287066014,0.0</coordinates>
@@ -149,7 +149,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="30">
                 <name>No 11</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="29">
                     <coordinates>109.1239839792252,-6.966063474596165,0.0</coordinates>
@@ -164,7 +164,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="36">
                 <name>No 13</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="35">
                     <coordinates>109.1238609328866,-6.966032191284903,0.0</coordinates>
@@ -179,7 +179,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="42">
                 <name>No 14</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="41">
                     <coordinates>109.1240161657333,-6.96587244668421,0.0</coordinates>
@@ -194,7 +194,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="48">
                 <name>?-59</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 72m</description>
                 <Point id="47">
                     <coordinates>109.124882183969,-6.965396540572112,0.0</coordinates>
@@ -209,7 +209,7 @@ Jarak: 72m</description>
             </Placemark>
             <Placemark id="54">
                 <name>?-60</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 72m</description>
                 <Point id="53">
                     <coordinates>109.1248724609613,-6.965463100896557,0.0</coordinates>
@@ -224,7 +224,7 @@ Jarak: 72m</description>
             </Placemark>
             <Placemark id="60">
                 <name>?-61</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 72m</description>
                 <Point id="59">
                     <coordinates>109.1248634085059,-6.965514019538386,0.0</coordinates>
@@ -337,7 +337,7 @@ Jarak: 72m</description>
             </Placemark>
             <Placemark id="77">
                 <name>?-56</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 43m</description>
                 <Point id="76">
                     <coordinates>109.1247403621674,-6.965152264100427,0.0</coordinates>
@@ -352,7 +352,7 @@ Jarak: 43m</description>
             </Placemark>
             <Placemark id="83">
                 <name>?-62</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="82">
                     <coordinates>109.1248419508338,-6.965610864783066,0.0</coordinates>
@@ -367,7 +367,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="89">
                 <name>?-63</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="88">
                     <coordinates>109.1247886419296,-6.965867454664559,0.0</coordinates>
@@ -382,7 +382,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="95">
                 <name>?-64</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="94">
                     <coordinates>109.1248278692365,-6.96598493351286,0.0</coordinates>
@@ -397,7 +397,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="101">
                 <name>?-65</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="100">
                     <coordinates>109.1248332336545,-6.966054821765594,0.0</coordinates>
@@ -412,7 +412,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="107">
                 <name>?-66</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="106">
                     <coordinates>109.1248007118702,-6.966179289389909,0.0</coordinates>
@@ -427,7 +427,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="113">
                 <name>?-67</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="112">
                     <coordinates>109.124715551734,-6.966173298970252,0.0</coordinates>
@@ -442,7 +442,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="119">
                 <name>?-68</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="118">
                     <coordinates>109.1246421262622,-6.965979941494403,0.0</coordinates>
@@ -457,7 +457,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="125">
                 <name>?-69</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="124">
                     <coordinates>109.1246149688959,-6.966104741939747,0.0</coordinates>
@@ -472,7 +472,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="131">
                 <name>No 9</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 118m</description>
                 <Point id="130">
                     <coordinates>109.1247185692191,-6.966015218423656,0.0</coordinates>
@@ -571,7 +571,7 @@ Jarak: 118m</description>
             </Placemark>
             <Placemark id="148">
                 <name>?-46</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="147">
                     <coordinates>109.1219853982329,-6.963282912556847,0.0</coordinates>
@@ -586,7 +586,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="154">
                 <name>?-47</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="153">
                     <coordinates>109.1220762580633,-6.963290234225989,0.0</coordinates>
@@ -601,7 +601,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="160">
                 <name>?-48</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="159">
                     <coordinates>109.1220692172647,-6.963203705401527,0.0</coordinates>
@@ -616,7 +616,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="166">
                 <name>?-73</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="165">
                     <coordinates>109.1221242025495,-6.963480930386638,0.0</coordinates>
@@ -631,7 +631,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="172">
                 <name>?-74</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="171">
                     <coordinates>109.1221014037728,-6.963605731496934,0.0</coordinates>
@@ -646,7 +646,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="178">
                 <name>?-75</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="177">
                     <coordinates>109.1222073510289,-6.963606729905682,0.0</coordinates>
@@ -661,7 +661,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="184">
                 <name>?-105</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="183">
                     <coordinates>109.1221744939685,-6.963206700630325,0.0</coordinates>
@@ -676,7 +676,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="190">
                 <name>?-106</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="189">
                     <coordinates>109.1222117096186,-6.963459630993831,0.0</coordinates>
@@ -782,7 +782,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="207">
                 <name>?-49</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="206">
                     <coordinates>109.1227934136987,-6.963317856885817,0.0</coordinates>
@@ -797,7 +797,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="213">
                 <name>?-50</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="212">
                     <coordinates>109.1228715330362,-6.963307207185832,0.0</coordinates>
@@ -812,7 +812,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="219">
                 <name>?-51</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="218">
                     <coordinates>109.1229486465454,-6.963308871201471,0.0</coordinates>
@@ -827,7 +827,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="225">
                 <name>?-52</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="224">
                     <coordinates>109.1227974370122,-6.963443989251625,0.0</coordinates>
@@ -842,7 +842,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="231">
                 <name>?-53</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="230">
                     <coordinates>109.1227323934436,-6.963444322054651,0.0</coordinates>
@@ -857,7 +857,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="237">
                 <name>?-54</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="236">
                     <coordinates>109.1228165477514,-6.963556143859747,0.0</coordinates>
@@ -872,7 +872,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="243">
                 <name>?-55</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="242">
                     <coordinates>109.1229392588139,-6.963543497347421,0.0</coordinates>
@@ -887,7 +887,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="249">
                 <name>No 62</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="248">
                     <coordinates>109.1228668391705,-6.963431342736271,0.0</coordinates>
@@ -902,7 +902,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="255">
                 <name>No 63</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="254">
                     <coordinates>109.1229553520679,-6.963435669175775,0.0</coordinates>
@@ -1015,7 +1015,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="272">
                 <name>?-38</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="271">
                     <coordinates>109.1249143704772,-6.967889551074187,0.0</coordinates>
@@ -1030,7 +1030,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="278">
                 <name>?-41</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="277">
                     <coordinates>109.1248875483871,-6.967800027898874,0.0</coordinates>
@@ -1045,7 +1045,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="284">
                 <name>No 46</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 16m</description>
                 <Point id="283">
                     <coordinates>109.1247517615557,-6.967805019897941,0.0</coordinates>
@@ -1060,7 +1060,7 @@ Jarak: 16m</description>
             </Placemark>
             <Placemark id="290">
                 <name>?-28</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 84m</description>
                 <Point id="289">
                     <coordinates>109.1249106824398,-6.968233333220464,0.0</coordinates>
@@ -1075,7 +1075,7 @@ Jarak: 84m</description>
             </Placemark>
             <Placemark id="296">
                 <name>?-33</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 84m</description>
                 <Point id="295">
                     <coordinates>109.1249167174101,-6.968015349410584,0.0</coordinates>
@@ -1090,7 +1090,7 @@ Jarak: 84m</description>
             </Placemark>
             <Placemark id="302">
                 <name>No 36</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 84m</description>
                 <Point id="301">
                     <coordinates>109.1249043121934,-6.968172098084118,0.0</coordinates>
@@ -1105,7 +1105,7 @@ Jarak: 84m</description>
             </Placemark>
             <Placemark id="308">
                 <name>No 37</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 84m</description>
                 <Point id="307">
                     <coordinates>109.1249023005366,-6.968086235759889,0.0</coordinates>
@@ -1120,7 +1120,7 @@ Jarak: 84m</description>
             </Placemark>
             <Placemark id="314">
                 <name>No 39</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 84m</description>
                 <Point id="313">
                     <coordinates>109.1247353330255,-6.96815079890437,0.0</coordinates>
@@ -1135,7 +1135,7 @@ Jarak: 84m</description>
             </Placemark>
             <Placemark id="320">
                 <name>No 45</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 84m</description>
                 <Point id="319">
                     <coordinates>109.1247665137053,-6.967934479055347,0.0</coordinates>
@@ -1150,7 +1150,7 @@ Jarak: 84m</description>
             </Placemark>
             <Placemark id="326">
                 <name>?-76</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 108m</description>
                 <Point id="325">
                     <coordinates>109.1255463659763,-6.96691411362165,0.0</coordinates>
@@ -1263,7 +1263,7 @@ Jarak: 108m</description>
             </Placemark>
             <Placemark id="343">
                 <name>?-82</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="342">
                     <coordinates>109.125751554966,-6.967421967014628,0.0</coordinates>
@@ -1278,7 +1278,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="349">
                 <name>No 20</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="348">
                     <coordinates>109.1257716715336,-6.967242587668019,0.0</coordinates>
@@ -1293,7 +1293,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="355">
                 <name>?-83</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="354">
                     <coordinates>109.1259262338281,-6.967912514265082,0.0</coordinates>
@@ -1308,7 +1308,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="361">
                 <name>?-84</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="360">
                     <coordinates>109.1259104758501,-6.967989723826282,0.0</coordinates>
@@ -1323,7 +1323,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="367">
                 <name>?-85</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="366">
                     <coordinates>109.1259007528424,-6.968069928572491,0.0</coordinates>
@@ -1338,7 +1338,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="373">
                 <name>?-87</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="372">
                     <coordinates>109.1257582604885,-6.967856271085349,0.0</coordinates>
@@ -1353,7 +1353,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="379">
                 <name>?-88</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="378">
                     <coordinates>109.1255916282535,-6.967936475854406,0.0</coordinates>
@@ -1368,7 +1368,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="385">
                 <name>?-89</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="384">
                     <coordinates>109.1253549233079,-6.968156123699402,0.0</coordinates>
@@ -1383,7 +1383,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="391">
                 <name>?-90</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="390">
                     <coordinates>109.1255527362227,-6.968204379651563,0.0</coordinates>
@@ -1398,7 +1398,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="397">
                 <name>?-91</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 55m</description>
                 <Point id="396">
                     <coordinates>109.1254870221019,-6.968279925166692,0.0</coordinates>
@@ -1511,7 +1511,7 @@ Jarak: 55m</description>
             </Placemark>
             <Placemark id="414">
                 <name>?-100</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="413">
                     <coordinates>109.1268878057599,-6.96777573350263,0.0</coordinates>
@@ -1526,7 +1526,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="420">
                 <name>?-101</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="419">
                     <coordinates>109.1268381848931,-6.967861595883727,0.0</coordinates>
@@ -1541,7 +1541,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="426">
                 <name>No 20</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="425">
                     <coordinates>109.1267339140177,-6.967836635890846,0.0</coordinates>
@@ -1556,7 +1556,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="432">
                 <name>No 21</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="431">
                     <coordinates>109.1267352551222,-6.96791118306565,0.0</coordinates>
@@ -1571,7 +1571,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="438">
                 <name>No 41</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="437">
                     <coordinates>109.1269595548511,-6.967817000695504,0.0</coordinates>
@@ -1586,7 +1586,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="444">
                 <name>?-42</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 11m</description>
                 <Point id="443">
                     <coordinates>109.1267345845699,-6.967568399083433,0.0</coordinates>
@@ -1601,7 +1601,7 @@ Jarak: 11m</description>
             </Placemark>
             <Placemark id="450">
                 <name>?-45</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 11m</description>
                 <Point id="449">
                     <coordinates>109.1268287971616,-6.967646607101445,0.0</coordinates>
@@ -1616,7 +1616,7 @@ Jarak: 11m</description>
             </Placemark>
             <Placemark id="456">
                 <name>?-86</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 11m</description>
                 <Point id="455">
                     <coordinates>109.1267080977559,-6.967717160706499,0.0</coordinates>
@@ -1631,7 +1631,7 @@ Jarak: 11m</description>
             </Placemark>
             <Placemark id="462">
                 <name>No 42</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 11m</description>
                 <Point id="461">
                     <coordinates>109.1267888993025,-6.96774045670584,0.0</coordinates>
@@ -1646,7 +1646,7 @@ Jarak: 11m</description>
             </Placemark>
             <Placemark id="468">
                 <name>?-93</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 32m</description>
                 <Point id="467">
                     <coordinates>109.1264382004738,-6.968057614981647,0.0</coordinates>
@@ -1759,7 +1759,7 @@ Jarak: 32m</description>
             </Placemark>
             <Placemark id="485">
                 <name>?-11</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="484">
                     <coordinates>109.1243303194642,-6.967912181465223,0.0</coordinates>
@@ -1774,7 +1774,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="491">
                 <name>?-13</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="490">
                     <coordinates>109.1245224326849,-6.967839963889962,0.0</coordinates>
@@ -1789,7 +1789,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="497">
                 <name>?-43</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="496">
                     <coordinates>109.1241935268044,-6.967909186266476,0.0</coordinates>
@@ -1804,7 +1804,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="503">
                 <name>?-12</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="502">
                     <coordinates>109.1244285553694,-6.96792882145795,0.0</coordinates>
@@ -1819,7 +1819,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="509">
                 <name>?-14</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="508">
                     <coordinates>109.1246501728892,-6.968111861338924,0.0</coordinates>
@@ -1834,7 +1834,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="515">
                 <name>?-18</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="514">
                     <coordinates>109.1241777688265,-6.968083240562247,0.0</coordinates>
@@ -1849,7 +1849,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="521">
                 <name>?-24</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="520">
                     <coordinates>109.1240859031677,-6.96804130779327,0.0</coordinates>
@@ -1864,7 +1864,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="527">
                 <name>?-57</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="526">
                     <coordinates>109.1244412958622,-6.968252635598748,0.0</coordinates>
@@ -1879,7 +1879,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="533">
                 <name>No 6</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="532">
                     <coordinates>109.1240513697267,-6.968191067665254,0.0</coordinates>
@@ -1894,7 +1894,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="539">
                 <name>No 7</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 143m</description>
                 <Point id="538">
                     <coordinates>109.1239591687918,-6.968194062862207,0.0</coordinates>
@@ -2000,7 +2000,7 @@ Jarak: 143m</description>
             </Placemark>
             <Placemark id="556">
                 <name>?-30</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="555">
                     <coordinates>109.1230747103691,-6.967829647092592,0.0</coordinates>
@@ -2015,7 +2015,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="562">
                 <name>?-31</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="561">
                     <coordinates>109.1230596229434,-6.967907189467301,0.0</coordinates>
@@ -2030,7 +2030,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="568">
                 <name>?-35</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="567">
                     <coordinates>109.1232306137681,-6.967924827859755,0.0</coordinates>
@@ -2045,7 +2045,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="574">
                 <name>?-37</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="573">
                     <coordinates>109.1232182085514,-6.968028994201663,0.0</coordinates>
@@ -2060,7 +2060,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="580">
                 <name>No 23</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="579">
                     <coordinates>109.1231672465801,-6.967898536670762,0.0</coordinates>
@@ -2075,7 +2075,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="586">
                 <name>No 25</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="585">
                     <coordinates>109.123338572681,-6.967955778244904,0.0</coordinates>
@@ -2090,7 +2090,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="592">
                 <name>?-17</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 249m</description>
                 <Point id="591">
                     <coordinates>109.1231270134449,-6.968896935217713,0.0</coordinates>
@@ -2105,7 +2105,7 @@ Jarak: 249m</description>
             </Placemark>
             <Placemark id="598">
                 <name>No 10</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 249m</description>
                 <Point id="597">
                     <coordinates>109.1230160370469,-6.969076646730334,0.0</coordinates>
@@ -2120,7 +2120,7 @@ Jarak: 249m</description>
             </Placemark>
             <Placemark id="604">
                 <name>No 46</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 249m</description>
                 <Point id="603">
                     <coordinates>109.1231830045581,-6.968767143526851,0.0</coordinates>
@@ -2233,7 +2233,7 @@ Jarak: 249m</description>
             </Placemark>
             <Placemark id="621">
                 <name>?-32</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="620">
                     <coordinates>109.1229523345828,-6.967907189467301,0.0</coordinates>
@@ -2248,7 +2248,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="627">
                 <name>?-26</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 12m</description>
                 <Point id="626">
                     <coordinates>109.1223578900099,-6.967517480664688,0.0</coordinates>
@@ -2263,7 +2263,7 @@ Jarak: 12m</description>
             </Placemark>
             <Placemark id="633">
                 <name>?-27</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 12m</description>
                 <Point id="632">
                     <coordinates>109.1222107037902,-6.967448258230351,0.0</coordinates>
@@ -2278,7 +2278,7 @@ Jarak: 12m</description>
             </Placemark>
             <Placemark id="639">
                 <name>?-40</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 87m</description>
                 <Point id="638">
                     <coordinates>109.1230978444219,-6.968549159965196,0.0</coordinates>
@@ -2293,7 +2293,7 @@ Jarak: 87m</description>
             </Placemark>
             <Placemark id="645">
                 <name>No 49</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 87m</description>
                 <Point id="644">
                     <coordinates>109.1230200603604,-6.968502235246296,0.0</coordinates>
@@ -2308,7 +2308,7 @@ Jarak: 87m</description>
             </Placemark>
             <Placemark id="651">
                 <name>No 51</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 87m</description>
                 <Point id="650">
                     <coordinates>109.1229560226202,-6.96846995369936,0.0</coordinates>
@@ -2323,7 +2323,7 @@ Jarak: 87m</description>
             </Placemark>
             <Placemark id="657">
                 <name>No 53</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 87m</description>
                 <Point id="656">
                     <coordinates>109.1229194775224,-6.968473614493462,0.0</coordinates>
@@ -2338,7 +2338,7 @@ Jarak: 87m</description>
             </Placemark>
             <Placemark id="663">
                 <name>No 55</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 87m</description>
                 <Point id="662">
                     <coordinates>109.1228688508272,-6.96846895530097,0.0</coordinates>
@@ -2353,7 +2353,7 @@ Jarak: 87m</description>
             </Placemark>
             <Placemark id="669">
                 <name>?-1</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 198m</description>
                 <Point id="668">
                     <coordinates>109.123108908534,-6.968740852385096,0.0</coordinates>
@@ -2368,7 +2368,7 @@ Jarak: 198m</description>
             </Placemark>
             <Placemark id="675">
                 <name>?-16</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 198m</description>
                 <Point id="674">
                     <coordinates>109.1231065616012,-6.968995443759088,0.0</coordinates>
@@ -2481,7 +2481,7 @@ Jarak: 198m</description>
             </Placemark>
             <Placemark id="692">
                 <name>?-7</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="691">
                     <coordinates>109.1232138499618,-6.968375438641948,0.0</coordinates>
@@ -2496,7 +2496,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="698">
                 <name>?-20</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="697">
                     <coordinates>109.1228990256786,-6.968305217935552,0.0</coordinates>
@@ -2511,7 +2511,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="704">
                 <name>?-22</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="703">
                     <coordinates>109.1233114153147,-6.968197390858791,0.0</coordinates>
@@ -2526,7 +2526,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="710">
                 <name>?-23</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="709">
                     <coordinates>109.1232017800212,-6.968195061261183,0.0</coordinates>
@@ -2541,7 +2541,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="716">
                 <name>?-25</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="715">
                     <coordinates>109.1229104250669,-6.968181083675273,0.0</coordinates>
@@ -2556,7 +2556,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="722">
                 <name>No 27</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="721">
                     <coordinates>109.1233080625534,-6.968274933172676,0.0</coordinates>
@@ -2571,7 +2571,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="728">
                 <name>No 29</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="727">
                     <coordinates>109.1230887919664,-6.968192731663565,0.0</coordinates>
@@ -2586,7 +2586,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="734">
                 <name>No 37</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="733">
                     <coordinates>109.1229426115751,-6.968311208327973,0.0</coordinates>
@@ -2601,7 +2601,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="740">
                 <name>No 38</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="739">
                     <coordinates>109.1229942440987,-6.968326849907843,0.0</coordinates>
@@ -2616,7 +2616,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="746">
                 <name>No 39</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="745">
                     <coordinates>109.1230606287718,-6.968346152282259,0.0</coordinates>
@@ -2729,7 +2729,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="763">
                 <name>?-8</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="762">
                     <coordinates>109.1228242591023,-6.968869978484867,0.0</coordinates>
@@ -2744,7 +2744,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="769">
                 <name>?-9</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="768">
                     <coordinates>109.1228839382529,-6.968879962460178,0.0</coordinates>
@@ -2759,7 +2759,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="775">
                 <name>?-10</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="774">
                     <coordinates>109.1228363290429,-6.96901574450322,0.0</coordinates>
@@ -2774,7 +2774,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="781">
                 <name>?-15</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 31m</description>
                 <Point id="780">
                     <coordinates>109.1227675974369,-6.969952240170007,0.0</coordinates>
@@ -2789,7 +2789,7 @@ Jarak: 31m</description>
             </Placemark>
             <Placemark id="787">
                 <name>?-44</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 31m</description>
                 <Point id="786">
                     <coordinates>109.1227092593908,-6.969829104741414,0.0</coordinates>
@@ -2804,7 +2804,7 @@ Jarak: 31m</description>
             </Placemark>
             <Placemark id="793">
                 <name>No 49</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 31m</description>
                 <Point id="792">
                     <coordinates>109.1226837784052,-6.969943587411227,0.0</coordinates>
@@ -2819,7 +2819,7 @@ Jarak: 31m</description>
             </Placemark>
             <Placemark id="799">
                 <name>?-2</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 48m</description>
                 <Point id="798">
                     <coordinates>109.1230170428753,-6.968712897245413,0.0</coordinates>
@@ -2834,7 +2834,7 @@ Jarak: 48m</description>
             </Placemark>
             <Placemark id="805">
                 <name>?-3</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 48m</description>
                 <Point id="804">
                     <coordinates>109.1229405999184,-6.968684942104061,0.0</coordinates>
@@ -2849,7 +2849,7 @@ Jarak: 48m</description>
             </Placemark>
             <Placemark id="811">
                 <name>?-4</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 48m</description>
                 <Point id="810">
                     <coordinates>109.1228601336479,-6.968648999777018,0.0</coordinates>
@@ -2864,7 +2864,7 @@ Jarak: 48m</description>
             </Placemark>
             <Placemark id="817">
                 <name>?-5</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 48m</description>
                 <Point id="816">
                     <coordinates>109.1231541708112,-6.968449652931603,0.0</coordinates>
@@ -2977,7 +2977,7 @@ Jarak: 48m</description>
             </Placemark>
             <Placemark id="834">
                 <name>?-6</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="833">
                     <coordinates>109.123399592936,-6.969227404668329,0.0</coordinates>
@@ -2992,7 +2992,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="840">
                 <name>?-19</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="839">
                     <coordinates>109.1228779032826,-6.970021129436216,0.0</coordinates>
@@ -3007,7 +3007,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="846">
                 <name>?-21</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="845">
                     <coordinates>109.1229362413287,-6.96984940544944,0.0</coordinates>
@@ -3022,7 +3022,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="852">
                 <name>?-36</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="851">
                     <coordinates>109.1233610361814,-6.969380824948383,0.0</coordinates>
@@ -3037,7 +3037,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="858">
                 <name>?-39</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="857">
                     <coordinates>109.1228986904025,-6.969934269055416,0.0</coordinates>
@@ -3052,7 +3052,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="864">
                 <name>?-103</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="863">
                     <coordinates>109.1228970140219,-6.970090018692296,0.0</coordinates>
@@ -3067,7 +3067,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="870">
                 <name>No 18</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="869">
                     <coordinates>109.1232705116272,-6.969364850604863,0.0</coordinates>
@@ -3082,7 +3082,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="876">
                 <name>No 19</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="875">
                     <coordinates>109.1232674941421,-6.969198783959767,0.0</coordinates>
@@ -3097,7 +3097,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="882">
                 <name>No 20</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="881">
                     <coordinates>109.1233375668526,-6.969208435129126,0.0</coordinates>
@@ -3112,7 +3112,7 @@ Jarak: 0m</description>
             </Placemark>
             <Placemark id="888">
                 <name>No 21</name>
-                <description>Melewati: Jalan tidak bernama
+                <description>Jalan: Gang/Jalan lokal
 Jarak: 0m</description>
                 <Point id="887">
                     <coordinates>109.1234733536839,-6.96923605744034,0.0</coordinates>
