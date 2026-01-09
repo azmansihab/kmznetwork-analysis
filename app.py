@@ -7,7 +7,8 @@ import simplekml
 import zipfile
 import numpy as np
 import os
-from scipy.spatial import ConvexHull, cKDTree
+from scipy.spatial import ConvexHull
+from shapely.geometry import Point  # <--- INI YANG TADI KURANG
 
 # Update OSMNX Settings
 ox.settings.use_cache = True
@@ -41,10 +42,10 @@ def load_data(uploaded_file):
         return None
 
 def get_optimized_street_name(G, path, gdf_named_streets, r_coords):
-    """Mencari nama jalan dengan performa tinggi."""
+    """Mencari nama jalan dengan performa tinggi dan fallback jalan terdekat."""
     names = []
     try:
-        # 1. Coba ambil dari rute jalan yang dilewati
+        # 1. Coba ambil dari rute jalan yang dilewati menggunakan routing standar
         gdf_route = ox.routing.route_to_gdf(G, path)
         if 'name' in gdf_route.columns:
             s_names = gdf_route['name'].dropna().tolist()
@@ -57,12 +58,13 @@ def get_optimized_street_name(G, path, gdf_named_streets, r_coords):
     if unique_names:
         return ", ".join(unique_names)
 
-    # 2. Fallback: Cari jalan bernama terdekat dari index spasial (Cepat)
+    # 2. Fallback: Cari jalan bernama terdekat menggunakan Spatial Index (Sangat Cepat)
     if not gdf_named_streets.empty:
-        point = Point(r_coords[0], r_coords[1])
-        # Cari jalan terdekat dalam GeoPandas (tanpa download ulang)
-        dist = gdf_named_streets.distance(point)
-        nearest_idx = dist.idxmin()
+        # Membuat objek Point untuk pencarian spasial
+        home_point = Point(r_coords[0], r_coords[1])
+        # Menghitung jarak ke semua jalan yang memiliki nama
+        distances = gdf_named_streets.distance(home_point)
+        nearest_idx = distances.idxmin()
         return f"(Sekitar {gdf_named_streets.loc[nearest_idx, 'name']})"
     
     return "Jalan Lokal"
@@ -89,16 +91,19 @@ if file_tiang and file_rumah:
         
         if st.button("🚀 MULAI ANALISIS CEPAT"):
             with st.spinner("Proses optimasi sedang berjalan..."):
-                # Hitung pusat area
                 avg_lat, avg_lon = gdf_tiang.geometry.y.mean(), gdf_tiang.geometry.x.mean()
                 
-                # Download Graph & Fitur Jalan (Sekali saja di awal)
+                # Download Graph (all) agar jalan kecil terdeteksi
                 G = ox.graph_from_point((avg_lat, avg_lon), dist=3000, network_type='all')
                 
-                # Ambil semua jalan yang punya nama di area tersebut untuk fallback cepat
+                # Download data jalan yang ada namanya di awal (Batch) untuk fallback
                 try:
                     gdf_named = ox.features_from_point((avg_lat, avg_lon), tags={'highway': True}, dist=3000)
-                    gdf_named = gdf_named[gdf_named['name'].notna()][['name', 'geometry']]
+                    # Pastikan hanya mengambil yang ada namanya
+                    if 'name' in gdf_named.columns:
+                        gdf_named = gdf_named[gdf_named['name'].notna()][['name', 'geometry']]
+                    else:
+                        gdf_named = gpd.GeoDataFrame()
                 except:
                     gdf_named = gpd.GeoDataFrame()
 
@@ -110,12 +115,17 @@ if file_tiang and file_rumah:
                 tiang_list = []
                 csv_data = [] 
 
-                # 1. Alokasi Tiang
+                # 1. Identifikasi Tiang
                 for i, tiang in gdf_tiang.iterrows():
                     t_node = ox.distance.nearest_nodes(G, tiang.geometry.x, tiang.geometry.y)
-                    tiang_list.append({'id': i, 'name': tiang.get('Name', f"T-{i+1}"), 'node': t_node, 'coords': (tiang.geometry.x, tiang.geometry.y)})
+                    tiang_list.append({
+                        'id': i, 
+                        'name': tiang.get('Name', f"T-{i+1}"), 
+                        'node': t_node, 
+                        'coords': (tiang.geometry.x, tiang.geometry.y)
+                    })
 
-                # 2. Cari Semua Kemungkinan Jarak (Batch)
+                # 2. Hitung Matriks Jarak (Anti-Crossing Logic)
                 for j, rumah in gdf_rumah.iterrows():
                     r_node = ox.distance.nearest_nodes(G, rumah.geometry.x, rumah.geometry.y)
                     r_coords = (rumah.geometry.x, rumah.geometry.y)
@@ -130,7 +140,7 @@ if file_tiang and file_rumah:
                                 })
                         except: continue
 
-                # 3. Optimasi Global
+                # 3. Optimasi Global (Urutkan dari yang Terdekat)
                 all_connections = sorted(all_connections, key=lambda x: x['dist'])
                 taken_homes = set()
                 pole_load = {t['id']: 0 for t in tiang_list}
@@ -139,9 +149,10 @@ if file_tiang and file_rumah:
                 for conn in all_connections:
                     t_idx, r_idx = conn['tiang_idx'], conn['rumah_idx']
                     if r_idx not in taken_homes and pole_load[t_idx] < max_homes:
+                        # Buat rute fix
                         path = nx.shortest_path(G, tiang_list[t_idx]['node'], conn['r_node'], weight='length')
                         
-                        # Ambil nama jalan dengan metode baru yang cepat
+                        # Nama jalan dengan fallback spasial
                         s_name = get_optimized_street_name(G, path, gdf_named, conn['r_coords'])
                         
                         conn['path'] = [(G.nodes[n]['x'], G.nodes[n]['y']) for n in path]
@@ -156,11 +167,12 @@ if file_tiang and file_rumah:
                             'LONGITUDE': conn['r_coords'][0], 'LATITUDE': conn['r_coords'][1]
                         })
 
-                # 4. Generate KMZ & Boundary
+                # 4. Konstruksi File Output (KMZ)
                 for t in tiang_list:
                     t_idx = t['id']
                     fol = kml_out.newfolder(name=f"AREA_{t['name']}")
                     fol.newpoint(name=f"PUSAT_{t['name']}", coords=[t['coords']])
+                    
                     pts_boundary = [t['coords']]
                     for res in final_allocations[t_idx]:
                         pts_boundary.append(res['r_coords'])
@@ -169,6 +181,7 @@ if file_tiang and file_rumah:
                         ls = fol.newlinestring(name=f"Route {res['r_name']}", coords=res['path'])
                         ls.style.linestyle.color = colors[t_idx % len(colors)]
                         ls.style.linestyle.width = 3
+                        
                     if len(pts_boundary) >= 3:
                         hull = ConvexHull(np.array(pts_boundary))
                         hull_pts = np.vstack([np.array(pts_boundary)[hull.vertices], np.array(pts_boundary)[hull.vertices[0]]])
@@ -176,16 +189,25 @@ if file_tiang and file_rumah:
                         poly.outerboundaryis = [(p[0], p[1]) for p in hull_pts]
                         poly.style.polystyle.color = simplekml.Color.changealphaint(50, colors[t_idx % len(colors)])
 
-                # Tambahkan Uncovered
+                # 5. Data Rumah Tidak Tercover
+                uncovered_fol = kml_out.newfolder(name="❌ TIDAK_TERCOVER")
                 for j, rumah in gdf_rumah.iterrows():
                     if j not in taken_homes:
                         csv_data.append({'KODE_TIANG': 'TIDAK TERCOVER', 'NAMA_RUMAH': rumah.get('Name', f"H-{j+1}"), 'NAMA_JALAN': 'N/A', 'JARAK_KABEL_M': 0, 'LONGITUDE': rumah.geometry.x, 'LATITUDE': rumah.geometry.y})
+                        uncovered_fol.newpoint(name=f"UNC_{rumah.get('Name', j)}", coords=[(rumah.geometry.x, rumah.geometry.y)])
 
-                # Result
+                # Export Section
                 df_csv = pd.DataFrame(csv_data)
-                kml_path = "ISP_Optimized.kml"
+                kml_path = "ISP_Optimized_Final.kml"
                 kml_out.save(kml_path)
+                
                 st.balloons()
-                st.download_button("📥 Download KMZ", open(kml_path, "rb"), file_name="ISP_Final.kmz")
-                st.download_button("📥 Download CSV", df_csv.to_csv(index=False).encode('utf-8'), "Data_ISP.csv", "text/csv")
+                st.subheader("📥 Download Hasil Analisis")
+                c1, c2 = st.columns(2)
+                with c1:
+                    st.download_button("Download KMZ (Peta)", open(kml_path, "rb"), file_name="ISP_Analysis.kmz")
+                with c2:
+                    st.download_button("Download CSV (Data)", df_csv.to_csv(index=False).encode('utf-8'), "Data_ISP.csv", "text/csv")
+                
+                st.write("### Preview Tabel Data")
                 st.dataframe(df_csv)
